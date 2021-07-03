@@ -1,0 +1,730 @@
+{
+  "ID": "be0c2e20-20a5-4f4c-a7ff-66c85394c011",
+  "Version": "3.10.0.0",
+  "Name": "Card",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1104,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "assets/card_border_1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 33,
+            "Scale9OriginY": 33,
+            "Scale9Width": 72,
+            "Scale9Height": 120,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 0.1741,
+              "Y": 0.1443
+            },
+            "LeftMargin": 264.288,
+            "RightMargin": 264.288,
+            "TopMargin": 410.735,
+            "BottomMargin": 410.735,
+            "Tag": 1195,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.712,
+                  "Y": 69.2891
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5002
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.7238,
+                  "Y": 0.7394
+                },
+                "LeftMargin": 15.3877,
+                "RightMargin": 15.3876,
+                "TopMargin": 18.0293,
+                "BottomMargin": 18.0775,
+                "Tag": 1196,
+                "ActionTag": 1928984818,
+                "Size": {
+                  "X": 80.6487,
+                  "Y": 102.4231
+                },
+                "Name": "InvisibleButton",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "assets/card_background_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 38,
+                "Scale9OriginY": 54,
+                "Scale9Width": 42,
+                "Scale9Height": 56,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.712,
+                  "Y": 70.2869
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5074
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.7429,
+                  "Y": 0.7539
+                },
+                "LeftMargin": 14.3236,
+                "RightMargin": 14.3236,
+                "TopMargin": 16.0269,
+                "BottomMargin": 18.0706,
+                "Tag": 1197,
+                "ActionTag": 1546335366,
+                "Size": {
+                  "X": 82.7769,
+                  "Y": 104.4325
+                },
+                "Name": "background",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "assets/common_icon_energy.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 46,
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.4571,
+                  "Y": 127.7691
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0759,
+                  "Y": 0.9223
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.2537
+                },
+                "LeftMargin": -10.1117,
+                "RightMargin": 84.3981,
+                "TopMargin": -6.8108,
+                "BottomMargin": 110.1974,
+                "Tag": 1198,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 12,
+                    "LabelText": "6",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 77,
+                      "G": 77,
+                      "B": 77
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 18.5688,
+                      "Y": 17.5717
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.4286,
+                      "Y": 0.5143
+                    },
+                    "LeftMargin": 10.6102,
+                    "RightMargin": 10.6102,
+                    "TopMargin": 8.5346,
+                    "BottomMargin": 8.5346,
+                    "Tag": 1199,
+                    "ActionTag": 468810812,
+                    "Size": {
+                      "X": 15.9172,
+                      "Y": 18.0743
+                    },
+                    "Name": "EnergyLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -972340361,
+                "Size": {
+                  "X": 37.1376,
+                  "Y": 35.1434
+                },
+                "Name": "EnergyIcon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "assets/card_tower_ice_gun.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 38,
+                "Scale9OriginY": 54,
+                "Scale9Width": 42,
+                "Scale9Height": 56,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.712,
+                  "Y": 70.2869
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5074
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.7333,
+                  "Y": 0.7467
+                },
+                "LeftMargin": 14.8584,
+                "RightMargin": 14.8584,
+                "TopMargin": 16.5257,
+                "BottomMargin": 18.5695,
+                "Tag": 1200,
+                "ActionTag": -638470704,
+                "Size": {
+                  "X": 81.7072,
+                  "Y": 103.4348
+                },
+                "Name": "item",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "assets/lobby_card_panel_box.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 23,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.712,
+                  "Y": 25.1104
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1813
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.819,
+                  "Y": 0.1087
+                },
+                "LeftMargin": 10.0839,
+                "RightMargin": 10.0839,
+                "TopMargin": 105.8879,
+                "BottomMargin": 17.5786,
+                "Tag": 1201,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 13,
+                    "LabelText": "Lv.3",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "R": 77,
+                      "G": 77,
+                      "B": 77
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 45.6281,
+                      "Y": 7.5317
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.4884,
+                      "Y": 1.3333
+                    },
+                    "LeftMargin": 23.3433,
+                    "RightMargin": 23.3434,
+                    "TopMargin": -2.5103,
+                    "BottomMargin": -2.5103,
+                    "Tag": 1202,
+                    "ActionTag": -1928994716,
+                    "Size": {
+                      "X": 44.5695,
+                      "Y": 20.0841
+                    },
+                    "Name": "LevelLabel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -753632993,
+                "Size": {
+                  "X": 91.2562,
+                  "Y": 15.0634
+                },
+                "Name": "CardPanel",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "assets/lobby_card_progress_background_deck.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 8,
+                "Scale9Width": 60,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.712,
+                  "Y": -11.1001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.0801
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.019,
+                  "Y": 0.1595
+                },
+                "LeftMargin": -1.0585,
+                "RightMargin": -1.0585,
+                "TopMargin": 138.5854,
+                "BottomMargin": -22.1448,
+                "Tag": 1203,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "assets/lobby_card_progress.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 39,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 42,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 3.4062,
+                      "Y": 11.0469
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.03,
+                      "Y": 0.5001
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.7664,
+                      "Y": 0.7501
+                    },
+                    "LeftMargin": 3.4062,
+                    "RightMargin": 23.1169,
+                    "TopMargin": 2.7579,
+                    "BottomMargin": 2.7623,
+                    "Tag": 1204,
+                    "ActionTag": -502553808,
+                    "Size": {
+                      "X": 87.0179,
+                      "Y": 16.5692
+                    },
+                    "Name": "ProgressedBar",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "assets/lobby_card_progress_glow.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 29,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 31,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 3.4062,
+                      "Y": 11.0469
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.03,
+                      "Y": 0.5001
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.7664,
+                      "Y": 0.7501
+                    },
+                    "LeftMargin": 3.4062,
+                    "RightMargin": 23.1169,
+                    "TopMargin": 2.7579,
+                    "BottomMargin": 2.7623,
+                    "Tag": 1205,
+                    "ActionTag": 1928002684,
+                    "Size": {
+                      "X": 87.0179,
+                      "Y": 16.5692
+                    },
+                    "Name": "Process_Glow",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 12,
+                    "LabelText": "17/20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "R": 77,
+                      "G": 77,
+                      "B": 77
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 56.7705,
+                      "Y": 11.0469
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5001
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.4673,
+                      "Y": 0.8183
+                    },
+                    "LeftMargin": 30.2417,
+                    "RightMargin": 30.2416,
+                    "TopMargin": 2.0046,
+                    "BottomMargin": 2.009,
+                    "Tag": 1206,
+                    "ActionTag": -1619071416,
+                    "Size": {
+                      "X": 53.0578,
+                      "Y": 18.0757
+                    },
+                    "Name": "Text_15",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 200159082,
+                "Size": {
+                  "X": 113.5411,
+                  "Y": 22.0894
+                },
+                "Name": "ProgressBar",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -37496843,
+            "Size": {
+              "X": 111.424,
+              "Y": 138.53
+            },
+            "Name": "container",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "assets/card_background_1.png",
+        "assets/card_border_1.png",
+        "assets/card_tower_ice_gun.png",
+        "assets/common_icon_energy.png",
+        "assets/lobby_card_panel_box.png",
+        "assets/lobby_card_progress.png",
+        "assets/lobby_card_progress_background_deck.png",
+        "assets/lobby_card_progress_glow.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "fonts/SVN-Supercell Magic.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

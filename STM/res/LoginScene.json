@@ -1,0 +1,781 @@
+{
+  "ID": "7838e9b9-9163-44b5-952e-1438387065b2",
+  "Version": "3.10.0.0",
+  "Name": "LoginScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "assets/lobby_background.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 0.7488,
+              "ScaleY": 0.7247
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.3312,
+              "Y": 1.376
+            },
+            "LeftMargin": -106.0,
+            "RightMargin": -106.0,
+            "TopMargin": -180.5,
+            "BottomMargin": -180.5,
+            "Tag": 5,
+            "ActionTag": -120860047,
+            "Size": {
+              "X": 852.0,
+              "Y": 1321.0
+            },
+            "Name": "background",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "assets/lobby_card_panel_miniature_glow_rare.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 130,
+            "Scale9OriginY": 130,
+            "Scale9Width": 134,
+            "Scale9Height": 134,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 638.016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6646
+            },
+            "PreSize": {
+              "X": 0.6156,
+              "Y": 0.4104
+            },
+            "LeftMargin": 123.0,
+            "RightMargin": 123.0,
+            "TopMargin": 124.984,
+            "BottomMargin": 441.016,
+            "Tag": 213,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fx/lobby_card_panel_miniature_particle_rare.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 12,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 348.6112,
+                  "Y": 203.8556
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8848,
+                  "Y": 0.5174
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.0838
+                },
+                "LeftMargin": 332.6112,
+                "RightMargin": 29.3888,
+                "TopMargin": 173.6444,
+                "BottomMargin": 187.3556,
+                "Tag": 214,
+                "ActionTag": 2026638243,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fx/lobby_card_panel_miniature_particle_rare.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 12,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 42.0004,
+                  "Y": 230.0172
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1066,
+                  "Y": 0.5838
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.0838
+                },
+                "LeftMargin": 26.0004,
+                "RightMargin": 335.9996,
+                "TopMargin": 147.4828,
+                "BottomMargin": 213.5172,
+                "Tag": 215,
+                "ActionTag": 1340215370,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_2_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fx/lobby_card_panel_miniature_particle_rare.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 12,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 40.4244,
+                  "Y": 160.161
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1026,
+                  "Y": 0.4065
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.0838
+                },
+                "LeftMargin": 24.4244,
+                "RightMargin": 337.5756,
+                "TopMargin": 217.339,
+                "BottomMargin": 143.661,
+                "Tag": 216,
+                "ActionTag": 1646904402,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_2_0_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fx/lobby_card_panel_miniature_particle_rare.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 12,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 250.4264,
+                  "Y": 308.2262
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6356,
+                  "Y": 0.7823
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.0838
+                },
+                "LeftMargin": 234.4264,
+                "RightMargin": 127.5736,
+                "TopMargin": 69.2738,
+                "BottomMargin": 291.7262,
+                "Tag": 217,
+                "ActionTag": -1962970128,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_2_0_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fx/lobby_card_panel_miniature_particle_rare.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 12,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.2112,
+                  "Y": 350.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7848,
+                  "Y": 0.89
+                },
+                "PreSize": {
+                  "X": 0.0812,
+                  "Y": 0.0838
+                },
+                "LeftMargin": 293.2112,
+                "RightMargin": 68.7888,
+                "TopMargin": 26.84,
+                "BottomMargin": 334.16,
+                "Tag": 218,
+                "ActionTag": -499548472,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_2_0_1_0",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -32215096,
+            "Size": {
+              "X": 394.0,
+              "Y": 394.0
+            },
+            "Name": "glow",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "assets/common_arena_forest.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 679.584
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7079
+            },
+            "PreSize": {
+              "X": 0.9453,
+              "Y": 0.6583
+            },
+            "LeftMargin": 17.5,
+            "RightMargin": 17.5,
+            "TopMargin": -35.584,
+            "BottomMargin": 363.584,
+            "Tag": 6,
+            "Children": [
+              {
+                "FontSize": 48,
+                "LabelText": "Rừng Thiêng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/SVN-Supercell Magic.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 173,
+                  "G": 216,
+                  "B": 230
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 12.0,
+                "ShadowOffsetY": 12.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 302.5,
+                  "Y": 67.4411
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1067
+                },
+                "PreSize": {
+                  "X": 0.7058,
+                  "Y": 0.106
+                },
+                "LeftMargin": 89.0,
+                "RightMargin": 89.0,
+                "TopMargin": 531.0589,
+                "BottomMargin": 33.9411,
+                "Tag": 397,
+                "ActionTag": -570863665,
+                "Size": {
+                  "X": 427.0,
+                  "Y": 67.0
+                },
+                "Name": "Text_17",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 707651892,
+            "Size": {
+              "X": 605.0,
+              "Y": 632.0
+            },
+            "Name": "area",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "assets/lobby_box.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 441.6
+            },
+            "Scale": {
+              "ScaleX": 2.0352,
+              "ScaleY": 1.6901
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.46
+            },
+            "PreSize": {
+              "X": 0.2188,
+              "Y": 0.0417
+            },
+            "LeftMargin": 250.0,
+            "RightMargin": 250.0,
+            "TopMargin": 498.4,
+            "BottomMargin": 421.6,
+            "Tag": 8,
+            "ActionTag": -691923966,
+            "Size": {
+              "X": 140.0,
+              "Y": 40.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/SVN-Avo bold.ttf",
+              "Plist": ""
+            },
+            "FontSize": 16,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Nhập Id",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 322.944,
+              "Y": 446.016
+            },
+            "Scale": {
+              "ScaleX": 1.994,
+              "ScaleY": 1.7563
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5046,
+              "Y": 0.4646
+            },
+            "PreSize": {
+              "X": 0.1312,
+              "Y": 0.024
+            },
+            "LeftMargin": 280.944,
+            "RightMargin": 275.056,
+            "TopMargin": 502.484,
+            "BottomMargin": 434.516,
+            "CallBackType": "Click",
+            "CallBackName": "onTouch",
+            "Tag": 9,
+            "ActionTag": 652819056,
+            "Size": {
+              "X": 84.0,
+              "Y": 23.0
+            },
+            "Name": "userIdInput",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 36,
+            "ButtonText": "",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/SVN-Supercell Magic.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "assets/lobby_home_btn_battle_pressing.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "assets/lobby_home_btn_battle.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 63,
+            "Scale9Width": 387,
+            "Scale9Height": 55,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.4989,
+              "ScaleY": 0.6775
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 331.7094
+            },
+            "Scale": {
+              "ScaleX": 0.47,
+              "ScaleY": 0.47
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3455
+            },
+            "PreSize": {
+              "X": 0.6516,
+              "Y": 0.1885
+            },
+            "LeftMargin": 111.9587,
+            "RightMargin": 111.0413,
+            "TopMargin": 569.9181,
+            "BottomMargin": 209.0819,
+            "Tag": 9,
+            "Children": [
+              {
+                "FontSize": 36,
+                "LabelText": "Đăng nhập",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/SVN-Supercell Magic.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 208.5,
+                  "Y": 115.84
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.64
+                },
+                "PreSize": {
+                  "X": 0.6595,
+                  "Y": 0.2707
+                },
+                "LeftMargin": 71.0,
+                "RightMargin": 71.0,
+                "TopMargin": 40.66,
+                "BottomMargin": 91.34,
+                "Tag": 50,
+                "ActionTag": 1128249363,
+                "Size": {
+                  "X": 275.0,
+                  "Y": 49.0
+                },
+                "Name": "LoginLabel",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1744151200,
+            "Size": {
+              "X": 417.0,
+              "Y": 181.0
+            },
+            "Name": "ButtonLogin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Id phải là số",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/SVN-Avo bold.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 384.6508
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 8.0,
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4007
+            },
+            "PreSize": {
+              "X": 0.2016,
+              "Y": 0.0292
+            },
+            "LeftMargin": 255.5,
+            "RightMargin": 255.5,
+            "TopMargin": 561.3492,
+            "BottomMargin": 370.6508,
+            "Tag": 274,
+            "ActionTag": -680678643,
+            "Size": {
+              "X": 129.0,
+              "Y": 28.0
+            },
+            "VisibleForFrame": false,
+            "Name": "WrongIdNotice",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "assets/common_arena_forest.png",
+        "assets/lobby_background.png",
+        "assets/lobby_box.png",
+        "assets/lobby_card_panel_miniature_glow_rare.png",
+        "assets/lobby_home_btn_battle.png",
+        "assets/lobby_home_btn_battle_pressing.png",
+        "Default/Button_Disable.png",
+        "fonts/SVN-Avo bold.ttf",
+        "fonts/SVN-Supercell Magic.ttf",
+        "fx/lobby_card_panel_miniature_particle_rare.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

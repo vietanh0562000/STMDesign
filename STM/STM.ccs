@@ -1,0 +1,194 @@
+<Solution>
+  <PropertyGroup Name="STM" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="card_background_1.png" />
+          <Image Name="card_background_2.png" />
+          <Image Name="card_background_3.png" />
+          <Image Name="card_background_4.png" />
+          <Image Name="card_border_1.png" />
+          <Image Name="card_border_2.png" />
+          <Image Name="card_border_3.png" />
+          <Image Name="card_border_4.png" />
+          <Image Name="card_level.png" />
+          <Image Name="card_monster_assassin.png" />
+          <Image Name="card_monster_bat.png" />
+          <Image Name="card_monster_giant.png" />
+          <Image Name="card_monster_ninja.png" />
+          <Image Name="card_monster_swordsman.png" />
+          <Image Name="card_potion_fireball.png" />
+          <Image Name="card_potion_frozen.png" />
+          <Image Name="card_potion_heal.png" />
+          <Image Name="card_potion_speed_up.png" />
+          <Image Name="card_tower_attack_speed.png" />
+          <Image Name="card_tower_boomerang.png" />
+          <Image Name="card_tower_cannon.png" />
+          <Image Name="card_tower_damage.png" />
+          <Image Name="card_tower_ice_gun.png" />
+          <Image Name="card_tower_oil_gun.png" />
+          <Image Name="card_tower_wizard.png" />
+          <Image Name="common_arena_forest.png" />
+          <Image Name="common_avatar.png" />
+          <Image Name="common_avatar_border.png" />
+          <Image Name="common_btn_blue.png" />
+          <Image Name="common_btn_gray.png" />
+          <Image Name="common_btn_green.png" />
+          <Image Name="common_btn_orange.png" />
+          <Image Name="common_btn_red.png" />
+          <Image Name="common_icon_energy.png" />
+          <Image Name="common_icon_g.png" />
+          <Image Name="common_icon_g_small.png" />
+          <Image Name="common_icon_gold.png" />
+          <Image Name="common_icon_gold_small.png" />
+          <Image Name="common_icon_star_small.png" />
+          <Image Name="common_icon_trophy.png" />
+          <Image Name="common_icon_trophy_small.png" />
+          <Image Name="common_notification_bar.png" />
+          <Image Name="common_panel_background.png" />
+          <Image Name="common_panel_btn_close.png" />
+          <Image Name="common_panel_front.png" />
+          <Image Name="common_panel_page.png" />
+          <Image Name="common_panel_page_selecting.png" />
+          <Image Name="common_tooltip_point.png" />
+          <Image Name="common_treasure.png" />
+          <Image Name="lobby_background.png" />
+          <Image Name="lobby_box.png" />
+          <Image Name="lobby_card_banner.png" />
+          <Image Name="lobby_card_btn_deck.png" />
+          <Image Name="lobby_card_btn_deck_selecting.png" />
+          <Image Name="lobby_card_deck.png" />
+          <Image Name="lobby_card_panel_box.png" />
+          <Image Name="lobby_card_panel_evolution.png" />
+          <Image Name="lobby_card_panel_flag_common.png" />
+          <Image Name="lobby_card_panel_flag_epic.png" />
+          <Image Name="lobby_card_panel_flag_legend.png" />
+          <Image Name="lobby_card_panel_flag_rare.png" />
+          <Image Name="lobby_card_panel_miniature_glow_common.png" />
+          <Image Name="lobby_card_panel_miniature_glow_epic.png" />
+          <Image Name="lobby_card_panel_miniature_glow_legend.png" />
+          <Image Name="lobby_card_panel_miniature_glow_rare.png" />
+          <Image Name="lobby_card_panel_stat.png" />
+          <Image Name="lobby_card_progress.png" />
+          <Image Name="lobby_card_progress_background.png" />
+          <Image Name="lobby_card_progress_background_deck.png" />
+          <Image Name="lobby_card_progress_glow.png" />
+          <Image Name="lobby_card_progress_max.png" />
+          <Image Name="lobby_card_switch_arrow.png" />
+          <Image Name="lobby_card_switch_glossy.png" />
+          <Image Name="lobby_card_switch_outline.png" />
+          <Image Name="lobby_currency_background.png" />
+          <Image Name="lobby_currency_btn_top_up.png" />
+          <Image Name="lobby_home_arena_glow.png" />
+          <Image Name="lobby_home_btn_battle.png" />
+          <Image Name="lobby_home_btn_battle_pressing.png" />
+          <Image Name="lobby_home_btn_battle_txt.png" />
+          <Image Name="lobby_home_playaer.png" />
+          <Image Name="lobby_home_treasure_empty.png" />
+          <Image Name="lobby_home_treasure_finished.png" />
+          <Image Name="lobby_home_treasure_opening.png" />
+          <Image Name="lobby_home_treasure_opening_time.png" />
+          <Image Name="lobby_page_btn_0.png" />
+          <Image Name="lobby_page_btn_1.png" />
+          <Image Name="lobby_page_btn_selecting.png" />
+          <Image Name="lobby_page_icon_cards.png" />
+          <Image Name="lobby_page_icon_clan.png" />
+          <Image Name="lobby_page_icon_home.png" />
+          <Image Name="lobby_page_icon_shop.png" />
+          <Image Name="lobby_page_icon_social.png" />
+          <Image Name="miniature_boss_dark_giant.png" />
+          <Image Name="miniature_boss_demon_tree.png" />
+          <Image Name="miniature_boss_desert_king.png" />
+          <Image Name="miniature_boss_golem.png" />
+          <Image Name="miniature_boss_iceman.png" />
+          <Image Name="miniature_boss_satyr.png" />
+          <Image Name="miniature_monster_assassin.png" />
+          <Image Name="miniature_monster_bat.png" />
+          <Image Name="miniature_monster_giant.png" />
+          <Image Name="miniature_monster_ninja.png" />
+          <Image Name="miniature_monster_swordsman.png" />
+          <Image Name="miniature_tower_attack_speed_1.png" />
+          <Image Name="miniature_tower_attack_speed_2.png" />
+          <Image Name="miniature_tower_attack_speed_3.png" />
+          <Image Name="miniature_tower_boomerang_1.png" />
+          <Image Name="miniature_tower_boomerang_2.png" />
+          <Image Name="miniature_tower_boomerang_3.png" />
+          <Image Name="miniature_tower_cannon_1.png" />
+          <Image Name="miniature_tower_cannon_2.png" />
+          <Image Name="miniature_tower_cannon_3.png" />
+          <Image Name="miniature_tower_damage_1.png" />
+          <Image Name="miniature_tower_damage_2.png" />
+          <Image Name="miniature_tower_damage_3.png" />
+          <Image Name="miniature_tower_ice_gun_1.png" />
+          <Image Name="miniature_tower_ice_gun_2.png" />
+          <Image Name="miniature_tower_ice_gun_3.png" />
+          <Image Name="miniature_tower_oil_gun_1.png" />
+          <Image Name="miniature_tower_oil_gun_2.png" />
+          <Image Name="miniature_tower_oil_gun_3.png" />
+          <Image Name="miniature_tower_wizard_1.png" />
+          <Image Name="miniature_tower_wizard_2.png" />
+          <Image Name="miniature_tower_wizard_3.png" />
+          <Image Name="skill_icon_armor_break.png" />
+          <Image Name="skill_icon_burn.png" />
+          <Image Name="skill_icon_poison.png" />
+          <Image Name="skill_icon_slow.png" />
+          <Image Name="skill_icon_stun.png" />
+          <Image Name="stat_icon_attack_speed.png" />
+          <Image Name="stat_icon_attack_speed_up.png" />
+          <Image Name="stat_icon_bullet_radius.png" />
+          <Image Name="stat_icon_damage.png" />
+          <Image Name="stat_icon_damage_up.png" />
+          <Image Name="stat_icon_energy_gain.png" />
+          <Image Name="stat_icon_evasion.png" />
+          <Image Name="stat_icon_heal.png" />
+          <Image Name="stat_icon_health_up.png" />
+          <Image Name="stat_icon_hp.png" />
+          <Image Name="stat_icon_immobilize.png" />
+          <Image Name="stat_icon_number_monsters.png" />
+          <Image Name="stat_icon_potion_range.png" />
+          <Image Name="stat_icon_range.png" />
+          <Image Name="stat_icon_range_up.png" />
+          <Image Name="stat_icon_special.png" />
+          <Image Name="stat_icon_speed.png" />
+          <Image Name="stat_icon_time.png" />
+          <Image Name="Trap.png" />
+          <Image Name="ui_icon_arrow.png" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="SVN-Avo bold.ttf" />
+          <TTF Name="SVN-Supercell Magic.ttf" />
+        </Folder>
+        <Folder Name="fx">
+          <File Name="card_upgrade_ready.atlas" />
+          <File Name="card_upgrade_ready.json" />
+          <Image Name="card_upgrade_ready.png" />
+          <Image Name="lobby_card_panel_miniature_particle_common.png" />
+          <Image Name="lobby_card_panel_miniature_particle_epic.png" />
+          <Image Name="lobby_card_panel_miniature_particle_legend.png" />
+          <Image Name="lobby_card_panel_miniature_particle_rare.png" />
+        </Folder>
+        <Project Name="BottomMenuLayer.csd" Type="Layer" />
+        <Project Name="Card.csd" Type="Layer" />
+        <Project Name="CardInfoLayer.csd" Type="Layer" />
+        <Project Name="CardSprite.csd" Type="Node" />
+        <Project Name="CheatScene.csd" Type="Scene" />
+        <Project Name="Chest.csd" Type="Layer" />
+        <Project Name="ChestContainerLayer.csd" Type="Layer" />
+        <Project Name="ChestInfoLayer.csd" Type="Layer" />
+        <Project Name="ChestSprite.csd" Type="Node" />
+        <Project Name="CollectionCardContainerLayer.csd" Type="Layer" />
+        <Project Name="FightCardContainerLayer.csd" Type="Layer" />
+        <Project Name="InventoryScene.csd" Type="Scene" />
+        <Project Name="LobbyScene.csd" Type="Scene" />
+        <Project Name="LoginScene.csd" Type="Scene" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="NotificationLayer.csd" Type="Layer" />
+        <Project Name="OpenChestScene.csd" Type="Scene" />
+        <PlistInfo Name="Plist.csi" Type="Plist" />
+        <Project Name="SelectingCardLayer.csd" Type="Layer" />
+        <Project Name="TopMenuLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

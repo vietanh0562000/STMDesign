@@ -1,0 +1,1150 @@
+{
+  "ID": "94de5b3a-21a7-465f-998f-8beea0095c31",
+  "Version": "3.10.0.0",
+  "Name": "CollectionCardContainerLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 141,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 446.208
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4648
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8958
+            },
+            "TopMargin": 83.808,
+            "BottomMargin": 16.224,
+            "Tag": 2269,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -209.024,
+                  "Y": 296.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.3266,
+                  "Y": 0.3442
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -209.024,
+                "RightMargin": 209.024,
+                "TopMargin": -396.033,
+                "BottomMargin": 296.001,
+                "Tag": 1234,
+                "ActionTag": 462277398,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -73.024,
+                  "Y": 296.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.1141,
+                  "Y": 0.3442
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -73.024,
+                "RightMargin": 73.024,
+                "TopMargin": -396.033,
+                "BottomMargin": 296.001,
+                "Tag": 1248,
+                "ActionTag": 565987094,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_0",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 64.0,
+                  "Y": 296.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1,
+                  "Y": 0.3442
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 64.0,
+                "RightMargin": -64.0,
+                "TopMargin": -396.033,
+                "BottomMargin": 296.001,
+                "Tag": 1262,
+                "ActionTag": -1300953043,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 200.0,
+                  "Y": 296.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3125,
+                  "Y": 0.3442
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 200.0,
+                "RightMargin": -200.0,
+                "TopMargin": -396.0153,
+                "BottomMargin": 296.001,
+                "Tag": 1276,
+                "ActionTag": -1167385605,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 959.9823
+                },
+                "Name": "FileNode_1_2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -206.024,
+                  "Y": 116.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.3219,
+                  "Y": 0.1349
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -206.024,
+                "RightMargin": 206.024,
+                "TopMargin": -216.033,
+                "BottomMargin": 116.001,
+                "Tag": 1290,
+                "ActionTag": 1382612884,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -70.024,
+                  "Y": 116.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.1094,
+                  "Y": 0.1349
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -70.024,
+                "RightMargin": 70.024,
+                "TopMargin": -216.033,
+                "BottomMargin": 116.001,
+                "Tag": 1304,
+                "ActionTag": -1534037377,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_0_0",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 67.0,
+                  "Y": 116.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1047,
+                  "Y": 0.1349
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 67.0,
+                "RightMargin": -67.0,
+                "TopMargin": -216.033,
+                "BottomMargin": 116.001,
+                "Tag": 1318,
+                "ActionTag": -1069403304,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_1_0",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 203.0,
+                  "Y": 116.001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3172,
+                  "Y": 0.1349
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 203.0,
+                "RightMargin": -203.0,
+                "TopMargin": -216.0153,
+                "BottomMargin": 116.001,
+                "Tag": 1332,
+                "ActionTag": 1800062415,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 959.9823
+                },
+                "Name": "FileNode_1_2_0",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -206.0239,
+                  "Y": -57.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.3219,
+                  "Y": -0.0674
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -206.0239,
+                "RightMargin": 206.0239,
+                "TopMargin": -42.033,
+                "BottomMargin": -57.999,
+                "Tag": 1346,
+                "ActionTag": 1382160324,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_4",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -70.0239,
+                  "Y": -57.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.1094,
+                  "Y": -0.0674
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -70.0239,
+                "RightMargin": 70.0239,
+                "TopMargin": -42.033,
+                "BottomMargin": -57.999,
+                "Tag": 1360,
+                "ActionTag": 1482242494,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_0_1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 67.0001,
+                  "Y": -57.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1047,
+                  "Y": -0.0674
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 67.0001,
+                "RightMargin": -67.0001,
+                "TopMargin": -42.033,
+                "BottomMargin": -57.999,
+                "Tag": 1374,
+                "ActionTag": -634362202,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_1_1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 203.0001,
+                  "Y": -57.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3172,
+                  "Y": -0.0674
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 203.0001,
+                "RightMargin": -203.0001,
+                "TopMargin": -42.0153,
+                "BottomMargin": -57.999,
+                "Tag": 1388,
+                "ActionTag": -1746101888,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 959.9823
+                },
+                "Name": "FileNode_1_2_1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -201.024,
+                  "Y": -231.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.3141,
+                  "Y": -0.2698
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -201.024,
+                "RightMargin": 201.024,
+                "TopMargin": 131.967,
+                "BottomMargin": -231.999,
+                "Tag": 1402,
+                "ActionTag": -875799868,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_5",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -65.024,
+                  "Y": -231.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.1016,
+                  "Y": -0.2698
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -65.024,
+                "RightMargin": 65.024,
+                "TopMargin": 131.967,
+                "BottomMargin": -231.999,
+                "Tag": 1416,
+                "ActionTag": 1224086730,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_0_2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 72.0,
+                  "Y": -231.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1125,
+                  "Y": -0.2698
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 72.0,
+                "RightMargin": -72.0,
+                "TopMargin": 131.967,
+                "BottomMargin": -231.999,
+                "Tag": 1430,
+                "ActionTag": -516410403,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_1_2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 208.0,
+                  "Y": -231.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.325,
+                  "Y": -0.2698
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 208.0,
+                "RightMargin": -208.0,
+                "TopMargin": 131.9847,
+                "BottomMargin": -231.999,
+                "Tag": 1444,
+                "ActionTag": 1876199935,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 959.9823
+                },
+                "Name": "FileNode_1_2_2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -200.024,
+                  "Y": -405.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.3125,
+                  "Y": -0.4721
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -200.024,
+                "RightMargin": 200.024,
+                "TopMargin": 305.967,
+                "BottomMargin": -405.999,
+                "Tag": 1458,
+                "ActionTag": 319403409,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_6",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -64.024,
+                  "Y": -405.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.1,
+                  "Y": -0.4721
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": -64.024,
+                "RightMargin": 64.024,
+                "TopMargin": 305.967,
+                "BottomMargin": -405.999,
+                "Tag": 1472,
+                "ActionTag": 1376007362,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_0_3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 73.0,
+                  "Y": -405.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1141,
+                  "Y": -0.4721
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 73.0,
+                "RightMargin": -73.0,
+                "TopMargin": 305.967,
+                "BottomMargin": -405.999,
+                "Tag": 1486,
+                "ActionTag": 2111883814,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 960.0
+                },
+                "Name": "FileNode_1_1_3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Card.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 209.0,
+                  "Y": -405.999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3266,
+                  "Y": -0.4721
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.1163
+                },
+                "LeftMargin": 209.0,
+                "RightMargin": -209.0,
+                "TopMargin": 305.9847,
+                "BottomMargin": -405.999,
+                "Tag": 1500,
+                "ActionTag": -1389377056,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 959.9823
+                },
+                "Name": "FileNode_1_2_3",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -1969055629,
+            "Size": {
+              "X": 640.0,
+              "Y": 859.968
+            },
+            "Name": "CardContainer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "assets/lobby_card_banner.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 199,
+            "Scale9OriginY": 29,
+            "Scale9Width": 206,
+            "Scale9Height": 30,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 313.6,
+              "Y": 914.688
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.49,
+              "Y": 0.9528
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.8138,
+              "Y": 0.0717
+            },
+            "LeftMargin": 53.184,
+            "RightMargin": 65.984,
+            "TopMargin": 10.896,
+            "BottomMargin": 880.272,
+            "Tag": 2510,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "BỘ SƯU TẬP THẺ BÀI",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/SVN-Supercell Magic.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 161.2496,
+                  "Y": 41.7408
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 81,
+                  "G": 177,
+                  "B": 222
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3096,
+                  "Y": 0.6064
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.505,
+                  "Y": 0.3632
+                },
+                "LeftMargin": 29.7395,
+                "RightMargin": 228.0723,
+                "TopMargin": 14.5913,
+                "BottomMargin": 29.2409,
+                "Tag": 143,
+                "ActionTag": 1907116491,
+                "Size": {
+                  "X": 263.0201,
+                  "Y": 24.9998
+                },
+                "Name": "CollectionCardLabel",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1284706896,
+            "Size": {
+              "X": 520.832,
+              "Y": 68.832
+            },
+            "Name": "banner",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "assets/lobby_card_banner.png",
+        "Card.json",
+        "fonts/SVN-Supercell Magic.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
