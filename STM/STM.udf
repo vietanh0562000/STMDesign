@@ -21,23 +21,11 @@
         <RunPlatform Value="Web" />
         <FrameworkVersion Value="cocos2d-x-3.10" />
         <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
         <EnableSourceMap Value="False" />
         <EnableHTML5Advanced Value="False" />
-      </Value>
-    </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="Card.csd" />
-          <FilePathData Path="CollectionCardContainerLayer.csd" />
-          <FilePathData Path="ChestContainerLayer.csd" />
-          <FilePathData Path="CardInfoLayer.csd" />
-          <FilePathData Path="BottomMenuLayer.csd" />
-          <FilePathData Path="CheatScene.csd" />
-          <FilePathData Path="Chest.csd" />
-          <FilePathData Path="FightCardContainerLayer.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="FightCardContainerLayer.csd" />
       </Value>
     </Item>
   </Properties>

@@ -30,7 +30,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 480.0
+              "Y": 568.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -54,8 +54,8 @@
             },
             "LeftMargin": 251.712,
             "RightMargin": 251.712,
-            "TopMargin": 392.784,
-            "BottomMargin": 392.784,
+            "TopMargin": 464.7944,
+            "BottomMargin": 464.7944,
             "Tag": 1542,
             "Children": [
               {
@@ -74,7 +74,7 @@
                 },
                 "Position": {
                   "X": 68.288,
-                  "Y": 87.216
+                  "Y": 103.2056
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -98,13 +98,13 @@
                 },
                 "LeftMargin": 25.8948,
                 "RightMargin": 25.8948,
-                "TopMargin": 51.2569,
-                "BottomMargin": 51.2568,
+                "TopMargin": 60.6539,
+                "BottomMargin": 60.6539,
                 "Tag": 1543,
                 "ActionTag": -469569074,
                 "Size": {
                   "X": 84.7864,
-                  "Y": 71.9183
+                  "Y": 85.1033
                 },
                 "Name": "Chest",
                 "ctype": "ImageViewObjectData"
@@ -138,7 +138,7 @@
                 },
                 "Position": {
                   "X": 68.288,
-                  "Y": 146.4182
+                  "Y": 173.2616
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -166,13 +166,13 @@
                 },
                 "LeftMargin": 26.2909,
                 "RightMargin": 26.2909,
-                "TopMargin": 16.51,
-                "BottomMargin": 134.9144,
+                "TopMargin": 19.5368,
+                "BottomMargin": 159.6487,
                 "Tag": 1544,
                 "ActionTag": 1094605192,
                 "Size": {
                   "X": 83.9942,
-                  "Y": 23.0076
+                  "Y": 27.2256
                 },
                 "Name": "TimeToOpenText",
                 "ctype": "TextObjectData"
@@ -206,7 +206,7 @@
                 },
                 "Position": {
                   "X": 69.7084,
-                  "Y": 90.2162
+                  "Y": 106.7559
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -234,13 +234,13 @@
                 },
                 "LeftMargin": 9.2052,
                 "RightMargin": 6.3644,
-                "TopMargin": 72.712,
-                "BottomMargin": 78.7124,
+                "TopMargin": 86.0425,
+                "BottomMargin": 93.1431,
                 "Tag": 1545,
                 "ActionTag": 1157486793,
                 "Size": {
                   "X": 121.0063,
-                  "Y": 23.0076
+                  "Y": 27.2256
                 },
                 "Name": "EmptyText",
                 "ctype": "TextObjectData"
@@ -274,7 +274,7 @@
                 },
                 "Position": {
                   "X": 68.288,
-                  "Y": 65.412
+                  "Y": 77.4042
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -302,13 +302,13 @@
                 },
                 "LeftMargin": 6.7878,
                 "RightMargin": 6.7878,
-                "TopMargin": 97.5162,
-                "BottomMargin": 53.9082,
+                "TopMargin": 115.3942,
+                "BottomMargin": 63.7914,
                 "Tag": 1546,
                 "ActionTag": -385246348,
                 "Size": {
                   "X": 123.0004,
-                  "Y": 23.0076
+                  "Y": 27.2256
                 },
                 "Name": "OpeningText",
                 "ctype": "TextObjectData"
@@ -342,7 +342,7 @@
                 },
                 "Position": {
                   "X": 68.288,
-                  "Y": 32.8107
+                  "Y": 38.826
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -370,13 +370,13 @@
                 },
                 "LeftMargin": 8.2628,
                 "RightMargin": 8.2628,
-                "TopMargin": 130.1176,
-                "BottomMargin": 21.3069,
+                "TopMargin": 153.9724,
+                "BottomMargin": 25.2131,
                 "Tag": 1547,
                 "ActionTag": 1348568195,
                 "Size": {
                   "X": 120.0503,
-                  "Y": 23.0076
+                  "Y": 27.2256
                 },
                 "Name": "ChestName_0",
                 "ctype": "TextObjectData"
@@ -397,7 +397,7 @@
                 },
                 "Position": {
                   "X": 68.288,
-                  "Y": 169.4956
+                  "Y": 200.5698
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -421,8 +421,8 @@
                 },
                 "LeftMargin": 8.8979,
                 "RightMargin": 8.8979,
-                "TopMargin": -11.0677,
-                "BottomMargin": 153.4915,
+                "TopMargin": -13.0968,
+                "BottomMargin": 181.6316,
                 "Tag": 1548,
                 "Children": [
                   {
@@ -441,7 +441,7 @@
                     },
                     "Position": {
                       "X": 9.5737,
-                      "Y": 19.1378
+                      "Y": 22.6464
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -465,13 +465,13 @@
                     },
                     "LeftMargin": -9.7697,
                     "RightMargin": 89.8631,
-                    "TopMargin": -11.4286,
-                    "BottomMargin": -5.1613,
+                    "TopMargin": -13.5238,
+                    "BottomMargin": -6.1076,
                     "Tag": 1549,
                     "ActionTag": -2064468947,
                     "Size": {
                       "X": 38.6867,
-                      "Y": 48.5982
+                      "Y": 57.5079
                     },
                     "Name": "Image_7",
                     "ctype": "ImageViewObjectData"
@@ -501,8 +501,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 76.8101,
-                      "Y": 19.1378
+                      "X": 76.8152,
+                      "Y": 22.6464
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -528,15 +528,15 @@
                       "X": 0.8151,
                       "Y": 0.5936
                     },
-                    "LeftMargin": 28.4012,
-                    "RightMargin": -6.4388,
-                    "TopMargin": 3.3705,
-                    "BottomMargin": 9.6377,
+                    "LeftMargin": 28.4063,
+                    "RightMargin": -6.4439,
+                    "TopMargin": 3.9884,
+                    "BottomMargin": 11.4046,
                     "Tag": 1550,
                     "ActionTag": 1268483119,
                     "Size": {
                       "X": 96.8177,
-                      "Y": 19.0001
+                      "Y": 22.4835
                     },
                     "Name": "TimeRemainToOpenText",
                     "ctype": "TextObjectData"
@@ -545,7 +545,7 @@
                 "ActionTag": 1797173798,
                 "Size": {
                   "X": 118.7802,
-                  "Y": 32.0083
+                  "Y": 37.8765
                 },
                 "Name": "TimeRemainToOpenLabel",
                 "ctype": "ImageViewObjectData"
@@ -566,7 +566,7 @@
                 },
                 "Position": {
                   "X": 75.6904,
-                  "Y": 32.3223
+                  "Y": 38.248
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -590,13 +590,13 @@
                 },
                 "LeftMargin": 63.6512,
                 "RightMargin": 48.8464,
-                "TopMargin": 128.7308,
-                "BottomMargin": 18.9433,
+                "TopMargin": 152.3315,
+                "BottomMargin": 22.4163,
                 "Tag": 1551,
                 "ActionTag": 908459268,
                 "Size": {
                   "X": 24.0784,
-                  "Y": 26.7579
+                  "Y": 31.6635
                 },
                 "Name": "Sprite_7_0_0",
                 "ctype": "ImageViewObjectData"
@@ -629,7 +629,7 @@
                 },
                 "Position": {
                   "X": 47.3099,
-                  "Y": 35.4795
+                  "Y": 41.984
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -653,13 +653,13 @@
                 },
                 "LeftMargin": 22.6921,
                 "RightMargin": 64.6483,
-                "TopMargin": 125.7044,
-                "BottomMargin": 22.2314,
+                "TopMargin": 148.7502,
+                "BottomMargin": 26.3071,
                 "Tag": 1552,
                 "ActionTag": -989982067,
                 "Size": {
                   "X": 49.2356,
-                  "Y": 26.4962
+                  "Y": 31.3539
                 },
                 "Name": "GemToOpenNowText",
                 "ctype": "TextObjectData"
@@ -693,7 +693,7 @@
                 },
                 "Position": {
                   "X": 68.288,
-                  "Y": 34.8864
+                  "Y": 41.2822
                 },
                 "Scale": {
                   "ScaleX": 0.8095,
@@ -717,13 +717,13 @@
                 },
                 "LeftMargin": 5.2855,
                 "RightMargin": 5.2855,
-                "TopMargin": 125.0416,
-                "BottomMargin": 20.3824,
+                "TopMargin": 147.9659,
+                "BottomMargin": 24.1192,
                 "Tag": 1532,
                 "ActionTag": -1793507097,
                 "Size": {
                   "X": 126.005,
-                  "Y": 29.008
+                  "Y": 34.3262
                 },
                 "Name": "FinishedText",
                 "ctype": "TextObjectData"
@@ -732,7 +732,7 @@
             "ActionTag": -330793953,
             "Size": {
               "X": 136.576,
-              "Y": 174.432
+              "Y": 206.4112
             },
             "Name": "Chest00",
             "ctype": "ImageViewObjectData"
@@ -783,7 +783,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 480.0
+              "Y": 568.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -807,13 +807,13 @@
             },
             "LeftMargin": 256.0,
             "RightMargin": 256.0,
-            "TopMargin": 398.4,
-            "BottomMargin": 398.4,
+            "TopMargin": 471.44,
+            "BottomMargin": 471.44,
             "Tag": 182,
             "ActionTag": -1309373115,
             "Size": {
               "X": 128.0,
-              "Y": 163.2
+              "Y": 193.12
             },
             "Alpha": 5,
             "Name": "OpenChestButton",
@@ -822,7 +822,7 @@
         ],
         "Size": {
           "X": 640.0,
-          "Y": 960.0
+          "Y": 1136.0
         },
         "Name": "Layer",
         "ctype": "LayerObjectData"

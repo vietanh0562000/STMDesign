@@ -37,7 +37,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 446.208
+              "Y": 604.2401
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -59,8 +59,8 @@
               "X": 1.0,
               "Y": 0.8958
             },
-            "TopMargin": 83.808,
-            "BottomMargin": 16.224,
+            "TopMargin": 113.49,
+            "BottomMargin": 21.97,
             "Tag": 2269,
             "Children": [
               {
@@ -74,8 +74,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -209.024,
-                  "Y": 296.001
+                  "X": -228.224,
+                  "Y": 413.9322
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -86,8 +86,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.3266,
-                  "Y": 0.3442
+                  "X": -0.3566,
+                  "Y": 0.3554
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -97,15 +97,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -209.024,
-                "RightMargin": 209.024,
-                "TopMargin": -396.033,
-                "BottomMargin": 296.001,
+                "LeftMargin": -228.224,
+                "RightMargin": 228.224,
+                "TopMargin": -549.3682,
+                "BottomMargin": 413.9322,
                 "Tag": 1234,
                 "ActionTag": 462277398,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1",
                 "ctype": "ProjectNodeObjectData"
@@ -121,8 +121,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -73.024,
-                  "Y": 296.001
+                  "X": -79.424,
+                  "Y": 413.9322
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -133,8 +133,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.1141,
-                  "Y": 0.3442
+                  "X": -0.1241,
+                  "Y": 0.3554
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -144,15 +144,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -73.024,
-                "RightMargin": 73.024,
-                "TopMargin": -396.033,
-                "BottomMargin": 296.001,
+                "LeftMargin": -79.424,
+                "RightMargin": 79.4241,
+                "TopMargin": -549.3682,
+                "BottomMargin": 413.9322,
                 "Tag": 1248,
                 "ActionTag": 565987094,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_0",
                 "ctype": "ProjectNodeObjectData"
@@ -168,8 +168,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 64.0,
-                  "Y": 296.001
+                  "X": 76.8,
+                  "Y": 413.9322
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -180,8 +180,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.1,
-                  "Y": 0.3442
+                  "X": 0.12,
+                  "Y": 0.3554
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -191,15 +191,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 64.0,
-                "RightMargin": -64.0,
-                "TopMargin": -396.033,
-                "BottomMargin": 296.001,
+                "LeftMargin": 76.8,
+                "RightMargin": -76.8,
+                "TopMargin": -549.3682,
+                "BottomMargin": 413.9322,
                 "Tag": 1262,
                 "ActionTag": -1300953043,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_1",
                 "ctype": "ProjectNodeObjectData"
@@ -215,8 +215,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 200.0,
-                  "Y": 296.001
+                  "X": 231.9999,
+                  "Y": 413.9322
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -227,8 +227,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.3125,
-                  "Y": 0.3442
+                  "X": 0.3625,
+                  "Y": 0.3554
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -238,15 +238,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 200.0,
-                "RightMargin": -200.0,
-                "TopMargin": -396.0153,
-                "BottomMargin": 296.001,
+                "LeftMargin": 231.9999,
+                "RightMargin": -231.9999,
+                "TopMargin": -549.3682,
+                "BottomMargin": 413.9322,
                 "Tag": 1276,
                 "ActionTag": -1167385605,
                 "Size": {
                   "X": 640.0,
-                  "Y": 959.9823
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_2",
                 "ctype": "ProjectNodeObjectData"
@@ -262,8 +262,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -206.024,
-                  "Y": 116.001
+                  "X": -228.2268,
+                  "Y": 181.468
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -274,8 +274,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.3219,
-                  "Y": 0.1349
+                  "X": -0.3566,
+                  "Y": 0.1558
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -285,15 +285,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -206.024,
-                "RightMargin": 206.024,
-                "TopMargin": -216.033,
-                "BottomMargin": 116.001,
+                "LeftMargin": -228.2268,
+                "RightMargin": 228.2268,
+                "TopMargin": -316.9041,
+                "BottomMargin": 181.468,
                 "Tag": 1290,
                 "ActionTag": 1382612884,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_3",
                 "ctype": "ProjectNodeObjectData"
@@ -309,8 +309,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -70.024,
-                  "Y": 116.001
+                  "X": -79.4264,
+                  "Y": 181.468
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -321,8 +321,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.1094,
-                  "Y": 0.1349
+                  "X": -0.1241,
+                  "Y": 0.1558
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -332,15 +332,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -70.024,
-                "RightMargin": 70.024,
-                "TopMargin": -216.033,
-                "BottomMargin": 116.001,
+                "LeftMargin": -79.4264,
+                "RightMargin": 79.4264,
+                "TopMargin": -316.9041,
+                "BottomMargin": 181.468,
                 "Tag": 1304,
                 "ActionTag": -1534037377,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_0_0",
                 "ctype": "ProjectNodeObjectData"
@@ -356,8 +356,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 67.0,
-                  "Y": 116.001
+                  "X": 76.7963,
+                  "Y": 181.468
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -368,8 +368,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.1047,
-                  "Y": 0.1349
+                  "X": 0.12,
+                  "Y": 0.1558
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -379,15 +379,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 67.0,
-                "RightMargin": -67.0,
-                "TopMargin": -216.033,
-                "BottomMargin": 116.001,
+                "LeftMargin": 76.7963,
+                "RightMargin": -76.7963,
+                "TopMargin": -316.9041,
+                "BottomMargin": 181.468,
                 "Tag": 1318,
                 "ActionTag": -1069403304,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_1_0",
                 "ctype": "ProjectNodeObjectData"
@@ -403,8 +403,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 203.0,
-                  "Y": 116.001
+                  "X": 231.9961,
+                  "Y": 181.468
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -415,8 +415,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.3172,
-                  "Y": 0.1349
+                  "X": 0.3625,
+                  "Y": 0.1558
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -426,15 +426,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 203.0,
-                "RightMargin": -203.0,
-                "TopMargin": -216.0153,
-                "BottomMargin": 116.001,
+                "LeftMargin": 231.9961,
+                "RightMargin": -231.9961,
+                "TopMargin": -316.9041,
+                "BottomMargin": 181.468,
                 "Tag": 1332,
                 "ActionTag": 1800062415,
                 "Size": {
                   "X": 640.0,
-                  "Y": 959.9823
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_2_0",
                 "ctype": "ProjectNodeObjectData"
@@ -450,8 +450,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -206.0239,
-                  "Y": -57.999
+                  "X": -226.5876,
+                  "Y": -54.3013
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -462,8 +462,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.3219,
-                  "Y": -0.0674
+                  "X": -0.354,
+                  "Y": -0.0466
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -473,15 +473,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -206.0239,
-                "RightMargin": 206.0239,
-                "TopMargin": -42.033,
-                "BottomMargin": -57.999,
+                "LeftMargin": -226.5876,
+                "RightMargin": 226.5876,
+                "TopMargin": -81.1348,
+                "BottomMargin": -54.3013,
                 "Tag": 1346,
                 "ActionTag": 1382160324,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_4",
                 "ctype": "ProjectNodeObjectData"
@@ -497,8 +497,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -70.0239,
-                  "Y": -57.999
+                  "X": -77.7879,
+                  "Y": -54.3013
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -509,8 +509,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.1094,
-                  "Y": -0.0674
+                  "X": -0.1215,
+                  "Y": -0.0466
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -520,15 +520,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -70.0239,
-                "RightMargin": 70.0239,
-                "TopMargin": -42.033,
-                "BottomMargin": -57.999,
+                "LeftMargin": -77.7879,
+                "RightMargin": 77.7879,
+                "TopMargin": -81.1348,
+                "BottomMargin": -54.3013,
                 "Tag": 1360,
                 "ActionTag": 1482242494,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_0_1",
                 "ctype": "ProjectNodeObjectData"
@@ -544,8 +544,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 67.0001,
-                  "Y": -57.999
+                  "X": 78.436,
+                  "Y": -54.3013
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -556,8 +556,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.1047,
-                  "Y": -0.0674
+                  "X": 0.1226,
+                  "Y": -0.0466
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -567,15 +567,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 67.0001,
-                "RightMargin": -67.0001,
-                "TopMargin": -42.033,
-                "BottomMargin": -57.999,
+                "LeftMargin": 78.436,
+                "RightMargin": -78.436,
+                "TopMargin": -81.1348,
+                "BottomMargin": -54.3013,
                 "Tag": 1374,
                 "ActionTag": -634362202,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_1_1",
                 "ctype": "ProjectNodeObjectData"
@@ -591,8 +591,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 203.0001,
-                  "Y": -57.999
+                  "X": 233.6359,
+                  "Y": -54.3013
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -603,8 +603,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.3172,
-                  "Y": -0.0674
+                  "X": 0.3651,
+                  "Y": -0.0466
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -614,15 +614,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 203.0001,
-                "RightMargin": -203.0001,
-                "TopMargin": -42.0153,
-                "BottomMargin": -57.999,
+                "LeftMargin": 233.6359,
+                "RightMargin": -233.6359,
+                "TopMargin": -81.1348,
+                "BottomMargin": -54.3013,
                 "Tag": 1388,
                 "ActionTag": -1746101888,
                 "Size": {
                   "X": 640.0,
-                  "Y": 959.9823
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_2_1",
                 "ctype": "ProjectNodeObjectData"
@@ -638,8 +638,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -201.024,
-                  "Y": -231.999
+                  "X": -223.3125,
+                  "Y": -290.1888
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -650,8 +650,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.3141,
-                  "Y": -0.2698
+                  "X": -0.3489,
+                  "Y": -0.2492
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -661,15 +661,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -201.024,
-                "RightMargin": 201.024,
-                "TopMargin": 131.967,
-                "BottomMargin": -231.999,
+                "LeftMargin": -223.3125,
+                "RightMargin": 223.3125,
+                "TopMargin": 154.7527,
+                "BottomMargin": -290.1888,
                 "Tag": 1402,
                 "ActionTag": -875799868,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_5",
                 "ctype": "ProjectNodeObjectData"
@@ -685,8 +685,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -65.024,
-                  "Y": -231.999
+                  "X": -74.5125,
+                  "Y": -290.1888
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -697,8 +697,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.1016,
-                  "Y": -0.2698
+                  "X": -0.1164,
+                  "Y": -0.2492
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -708,15 +708,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -65.024,
-                "RightMargin": 65.024,
-                "TopMargin": 131.967,
-                "BottomMargin": -231.999,
+                "LeftMargin": -74.5125,
+                "RightMargin": 74.5126,
+                "TopMargin": 154.7527,
+                "BottomMargin": -290.1888,
                 "Tag": 1416,
                 "ActionTag": 1224086730,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_0_2",
                 "ctype": "ProjectNodeObjectData"
@@ -732,8 +732,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 72.0,
-                  "Y": -231.999
+                  "X": 81.7114,
+                  "Y": -290.1888
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -744,8 +744,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.1125,
-                  "Y": -0.2698
+                  "X": 0.1277,
+                  "Y": -0.2492
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -755,15 +755,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 72.0,
-                "RightMargin": -72.0,
-                "TopMargin": 131.967,
-                "BottomMargin": -231.999,
+                "LeftMargin": 81.7114,
+                "RightMargin": -81.7114,
+                "TopMargin": 154.7527,
+                "BottomMargin": -290.1888,
                 "Tag": 1430,
                 "ActionTag": -516410403,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_1_2",
                 "ctype": "ProjectNodeObjectData"
@@ -779,8 +779,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 208.0,
-                  "Y": -231.999
+                  "X": 236.9114,
+                  "Y": -290.1888
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -791,8 +791,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.325,
-                  "Y": -0.2698
+                  "X": 0.3702,
+                  "Y": -0.2492
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -802,15 +802,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 208.0,
-                "RightMargin": -208.0,
-                "TopMargin": 131.9847,
-                "BottomMargin": -231.999,
+                "LeftMargin": 236.9114,
+                "RightMargin": -236.9114,
+                "TopMargin": 154.7527,
+                "BottomMargin": -290.1888,
                 "Tag": 1444,
                 "ActionTag": 1876199935,
                 "Size": {
                   "X": 640.0,
-                  "Y": 959.9823
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_2_2",
                 "ctype": "ProjectNodeObjectData"
@@ -826,8 +826,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -200.024,
-                  "Y": -405.999
+                  "X": -221.6752,
+                  "Y": -527.7814
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -838,8 +838,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.3125,
-                  "Y": -0.4721
+                  "X": -0.3464,
+                  "Y": -0.4532
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -849,15 +849,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -200.024,
-                "RightMargin": 200.024,
-                "TopMargin": 305.967,
-                "BottomMargin": -405.999,
+                "LeftMargin": -221.6752,
+                "RightMargin": 221.6752,
+                "TopMargin": 392.3454,
+                "BottomMargin": -527.7814,
                 "Tag": 1458,
                 "ActionTag": 319403409,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_6",
                 "ctype": "ProjectNodeObjectData"
@@ -873,8 +873,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": -64.024,
-                  "Y": -405.999
+                  "X": -72.8753,
+                  "Y": -527.7814
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -885,8 +885,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": -0.1,
-                  "Y": -0.4721
+                  "X": -0.1139,
+                  "Y": -0.4532
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -896,15 +896,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": -64.024,
-                "RightMargin": 64.024,
-                "TopMargin": 305.967,
-                "BottomMargin": -405.999,
+                "LeftMargin": -72.8753,
+                "RightMargin": 72.8753,
+                "TopMargin": 392.3454,
+                "BottomMargin": -527.7814,
                 "Tag": 1472,
                 "ActionTag": 1376007362,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_0_3",
                 "ctype": "ProjectNodeObjectData"
@@ -920,8 +920,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 73.0,
-                  "Y": -405.999
+                  "X": 83.3487,
+                  "Y": -527.7814
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -932,8 +932,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.1141,
-                  "Y": -0.4721
+                  "X": 0.1302,
+                  "Y": -0.4532
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -943,15 +943,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 73.0,
-                "RightMargin": -73.0,
-                "TopMargin": 305.967,
-                "BottomMargin": -405.999,
+                "LeftMargin": 83.3487,
+                "RightMargin": -83.3487,
+                "TopMargin": 392.3454,
+                "BottomMargin": -527.7814,
                 "Tag": 1486,
                 "ActionTag": 2111883814,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_1_3",
                 "ctype": "ProjectNodeObjectData"
@@ -967,8 +967,8 @@
                 "InnerActionSpeed": 1.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 209.0,
-                  "Y": -405.999
+                  "X": 238.5486,
+                  "Y": -527.7814
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -979,8 +979,8 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.3266,
-                  "Y": -0.4721
+                  "X": 0.3727,
+                  "Y": -0.4532
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -990,15 +990,15 @@
                   "X": 1.0,
                   "Y": 1.1163
                 },
-                "LeftMargin": 209.0,
-                "RightMargin": -209.0,
-                "TopMargin": 305.9847,
-                "BottomMargin": -405.999,
+                "LeftMargin": 238.5486,
+                "RightMargin": -238.5486,
+                "TopMargin": 392.3454,
+                "BottomMargin": -527.7814,
                 "Tag": 1500,
                 "ActionTag": -1389377056,
                 "Size": {
                   "X": 640.0,
-                  "Y": 959.9823
+                  "Y": 1299.9761
                 },
                 "Name": "FileNode_1_2_3",
                 "ctype": "ProjectNodeObjectData"
@@ -1007,7 +1007,7 @@
             "ActionTag": -1969055629,
             "Size": {
               "X": 640.0,
-              "Y": 859.968
+              "Y": 1164.54
             },
             "Name": "CardContainer",
             "ctype": "PanelObjectData"
@@ -1028,7 +1028,7 @@
             },
             "Position": {
               "X": 313.6,
-              "Y": 914.688
+              "Y": 1238.6399
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -1052,8 +1052,8 @@
             },
             "LeftMargin": 53.184,
             "RightMargin": 65.984,
-            "TopMargin": 10.896,
-            "BottomMargin": 880.272,
+            "TopMargin": 14.7551,
+            "BottomMargin": 1192.0349,
             "Tag": 2510,
             "Children": [
               {
@@ -1082,7 +1082,7 @@
                 },
                 "Position": {
                   "X": 161.2496,
-                  "Y": 41.7408
+                  "Y": 56.5225
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -1110,13 +1110,13 @@
                 },
                 "LeftMargin": 29.7395,
                 "RightMargin": 228.0723,
-                "TopMargin": 14.5913,
-                "BottomMargin": 29.2409,
+                "TopMargin": 19.7605,
+                "BottomMargin": 39.5956,
                 "Tag": 143,
                 "ActionTag": 1907116491,
                 "Size": {
                   "X": 263.0201,
-                  "Y": 24.9998
+                  "Y": 33.8539
                 },
                 "Name": "CollectionCardLabel",
                 "ctype": "TextObjectData"
@@ -1125,7 +1125,7 @@
             "ActionTag": -1284706896,
             "Size": {
               "X": 520.832,
-              "Y": 68.832
+              "Y": 93.21
             },
             "Name": "banner",
             "ctype": "ImageViewObjectData"
@@ -1133,7 +1133,7 @@
         ],
         "Size": {
           "X": 640.0,
-          "Y": 960.0
+          "Y": 1300.0
         },
         "Name": "Layer",
         "ctype": "LayerObjectData"

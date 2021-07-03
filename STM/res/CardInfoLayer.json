@@ -32,7 +32,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 480.0
+              "Y": 568.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -54,13 +54,13 @@
               "X": 1.0,
               "Y": 1.1031
             },
-            "TopMargin": -49.488,
-            "BottomMargin": -49.488,
+            "TopMargin": -58.5608,
+            "BottomMargin": -58.5608,
             "Tag": 1111,
             "ActionTag": -1826336588,
             "Size": {
               "X": 640.0,
-              "Y": 1058.976
+              "Y": 1253.1216
             },
             "Name": "background",
             "ctype": "ImageViewObjectData"
@@ -82,7 +82,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 400.896
+              "Y": 474.3936
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -106,8 +106,8 @@
             },
             "LeftMargin": 93.504,
             "RightMargin": 93.504,
-            "TopMargin": 267.6,
-            "BottomMargin": 109.392,
+            "TopMargin": 316.66,
+            "BottomMargin": 129.4472,
             "Tag": 634,
             "Children": [
               {
@@ -122,7 +122,7 @@
                 "AnchorPoint": {},
                 "Position": {
                   "X": -232.0225,
-                  "Y": 8.9783
+                  "Y": 10.6243
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -146,13 +146,13 @@
                 },
                 "LeftMargin": -232.0225,
                 "RightMargin": 45.0274,
-                "TopMargin": -385.9513,
-                "BottomMargin": 8.9783,
+                "TopMargin": -456.7092,
+                "BottomMargin": 10.6243,
                 "Tag": 1220,
                 "ActionTag": -677555818,
                 "Size": {
                   "X": 639.9871,
-                  "Y": 959.981
+                  "Y": 1135.9775
                 },
                 "Name": "CardSprite",
                 "ctype": "ProjectNodeObjectData"
@@ -187,7 +187,7 @@
                 },
                 "Position": {
                   "X": 290.9568,
-                  "Y": 527.7388
+                  "Y": 624.491
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -211,13 +211,13 @@
                 },
                 "LeftMargin": 162.9639,
                 "RightMargin": 34.0423,
-                "TopMargin": 40.7814,
-                "BottomMargin": 513.2511,
+                "TopMargin": 48.2579,
+                "BottomMargin": 607.3471,
                 "Tag": 663,
                 "ActionTag": -2068689455,
                 "Size": {
                   "X": 255.9858,
-                  "Y": 28.9755
+                  "Y": 34.2877
                 },
                 "Name": "Name",
                 "ctype": "TextObjectData"
@@ -249,7 +249,7 @@
                 },
                 "Position": {
                   "X": 225.59,
-                  "Y": 255.0077
+                  "Y": 301.7591
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -273,8 +273,8 @@
                 },
                 "LeftMargin": 13.5898,
                 "RightMargin": 15.4017,
-                "TopMargin": 206.0059,
-                "BottomMargin": 133.0133,
+                "TopMargin": 243.7736,
+                "BottomMargin": 157.399,
                 "Tag": 720,
                 "Children": [
                   {
@@ -334,7 +334,7 @@
                         },
                         "Position": {
                           "X": 212.0002,
-                          "Y": 130.2657
+                          "Y": 154.1477
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -358,8 +358,8 @@
                         },
                         "LeftMargin": 3.498,
                         "RightMargin": 3.498,
-                        "TopMargin": -1.281,
-                        "BottomMargin": 15.2615,
+                        "TopMargin": -1.5157,
+                        "BottomMargin": 18.0594,
                         "Tag": 670,
                         "Children": [
                           {
@@ -378,7 +378,7 @@
                             },
                             "Position": {
                               "X": 114.6762,
-                              "Y": 173.6563
+                              "Y": 205.4932
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -402,8 +402,8 @@
                             },
                             "LeftMargin": 21.6842,
                             "RightMargin": 209.3362,
-                            "TopMargin": 30.3496,
-                            "BottomMargin": 147.6538,
+                            "TopMargin": 35.9137,
+                            "BottomMargin": 174.7236,
                             "Tag": 677,
                             "Children": [
                               {
@@ -422,7 +422,7 @@
                                 },
                                 "Position": {
                                   "X": 26.3167,
-                                  "Y": 26.0024
+                                  "Y": 30.7696
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -446,13 +446,13 @@
                                 },
                                 "LeftMargin": 11.3171,
                                 "RightMargin": 144.6677,
-                                "TopMargin": 9.5013,
-                                "BottomMargin": 9.5013,
+                                "TopMargin": 11.2432,
+                                "BottomMargin": 11.2432,
                                 "Tag": 683,
                                 "ActionTag": -735589243,
                                 "Size": {
                                   "X": 29.9992,
-                                  "Y": 33.0023
+                                  "Y": 39.0527
                                 },
                                 "Name": "StatIcon",
                                 "ctype": "ImageViewObjectData"
@@ -482,7 +482,7 @@
                                 },
                                 "Position": {
                                   "X": 47.9467,
-                                  "Y": 38.0052
+                                  "Y": 44.9728
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -510,13 +510,13 @@
                                 },
                                 "LeftMargin": 47.9467,
                                 "RightMargin": 15.0461,
-                                "TopMargin": 5.9988,
-                                "BottomMargin": 30.0042,
+                                "TopMargin": 7.0985,
+                                "BottomMargin": 35.505,
                                 "Tag": 684,
                                 "ActionTag": -1918984213,
                                 "Size": {
                                   "X": 122.9912,
-                                  "Y": 16.0019
+                                  "Y": 18.9356
                                 },
                                 "Name": "InfoLabel",
                                 "ctype": "TextObjectData"
@@ -548,7 +548,7 @@
                                 },
                                 "Position": {
                                   "X": 48.672,
-                                  "Y": 18.2641
+                                  "Y": 21.6125
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -572,13 +572,13 @@
                                 },
                                 "LeftMargin": 48.672,
                                 "RightMargin": 115.3101,
-                                "TopMargin": 23.241,
-                                "BottomMargin": 7.7643,
+                                "TopMargin": 27.5018,
+                                "BottomMargin": 9.1878,
                                 "Tag": 685,
                                 "ActionTag": -1443789573,
                                 "Size": {
                                   "X": 22.0019,
-                                  "Y": 20.9996
+                                  "Y": 24.8495
                                 },
                                 "Name": "Info",
                                 "ctype": "TextObjectData"
@@ -587,7 +587,7 @@
                             "ActionTag": -1984486770,
                             "Size": {
                               "X": 185.984,
-                              "Y": 52.0049
+                              "Y": 61.5391
                             },
                             "Name": "InfoContainer",
                             "ctype": "ImageViewObjectData"
@@ -608,7 +608,7 @@
                             },
                             "Position": {
                               "X": 308.5833,
-                              "Y": 173.6563
+                              "Y": 205.4932
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -632,8 +632,8 @@
                             },
                             "LeftMargin": 215.5913,
                             "RightMargin": 15.4292,
-                            "TopMargin": 30.3496,
-                            "BottomMargin": 147.6538,
+                            "TopMargin": 35.9137,
+                            "BottomMargin": 174.7236,
                             "Tag": 687,
                             "Children": [
                               {
@@ -652,7 +652,7 @@
                                 },
                                 "Position": {
                                   "X": 26.3167,
-                                  "Y": 26.0024
+                                  "Y": 30.7696
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -676,13 +676,13 @@
                                 },
                                 "LeftMargin": 14.8136,
                                 "RightMargin": 148.1642,
-                                "TopMargin": 10.0031,
-                                "BottomMargin": 10.0031,
+                                "TopMargin": 11.837,
+                                "BottomMargin": 11.837,
                                 "Tag": 688,
                                 "ActionTag": 488965598,
                                 "Size": {
                                   "X": 23.0062,
-                                  "Y": 31.9986
+                                  "Y": 37.865
                                 },
                                 "Name": "StatIcon",
                                 "ctype": "ImageViewObjectData"
@@ -712,7 +712,7 @@
                                 },
                                 "Position": {
                                   "X": 48.672,
-                                  "Y": 38.0052
+                                  "Y": 44.9728
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -740,13 +740,13 @@
                                 },
                                 "LeftMargin": 48.672,
                                 "RightMargin": 14.3208,
-                                "TopMargin": 5.9988,
-                                "BottomMargin": 30.0042,
+                                "TopMargin": 7.0985,
+                                "BottomMargin": 35.505,
                                 "Tag": 689,
                                 "ActionTag": 1298948867,
                                 "Size": {
                                   "X": 122.9912,
-                                  "Y": 16.0019
+                                  "Y": 18.9356
                                 },
                                 "Name": "InfoLabel",
                                 "ctype": "TextObjectData"
@@ -778,7 +778,7 @@
                                 },
                                 "Position": {
                                   "X": 48.672,
-                                  "Y": 17.8273
+                                  "Y": 21.0956
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -802,13 +802,13 @@
                                 },
                                 "LeftMargin": 48.672,
                                 "RightMargin": 115.3101,
-                                "TopMargin": 23.2389,
-                                "BottomMargin": 7.7664,
+                                "TopMargin": 27.4994,
+                                "BottomMargin": 9.1902,
                                 "Tag": 690,
                                 "ActionTag": 1569660016,
                                 "Size": {
                                   "X": 22.0019,
-                                  "Y": 20.9996
+                                  "Y": 24.8495
                                 },
                                 "Name": "Info",
                                 "ctype": "TextObjectData"
@@ -817,7 +817,7 @@
                             "ActionTag": -1042318995,
                             "Size": {
                               "X": 185.984,
-                              "Y": 52.0049
+                              "Y": 61.5391
                             },
                             "Name": "InfoContainer_0",
                             "ctype": "ImageViewObjectData"
@@ -838,7 +838,7 @@
                             },
                             "Position": {
                               "X": 114.6762,
-                              "Y": 115.0041
+                              "Y": 136.0882
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -862,8 +862,8 @@
                             },
                             "LeftMargin": 21.6842,
                             "RightMargin": 209.3362,
-                            "TopMargin": 89.0017,
-                            "BottomMargin": 89.0017,
+                            "TopMargin": 105.3187,
+                            "BottomMargin": 105.3187,
                             "Tag": 692,
                             "Children": [
                               {
@@ -882,7 +882,7 @@
                                 },
                                 "Position": {
                                   "X": 23.7688,
-                                  "Y": 25.5656
+                                  "Y": 30.2526
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -906,13 +906,13 @@
                                 },
                                 "LeftMargin": 11.3101,
                                 "RightMargin": 144.6747,
-                                "TopMargin": 11.0394,
-                                "BottomMargin": 10.9638,
+                                "TopMargin": 13.0633,
+                                "BottomMargin": 12.9738,
                                 "Tag": 693,
                                 "ActionTag": 414252157,
                                 "Size": {
                                   "X": 29.9992,
-                                  "Y": 30.0016
+                                  "Y": 35.5019
                                 },
                                 "Name": "StatIcon",
                                 "ctype": "ImageViewObjectData"
@@ -942,7 +942,7 @@
                                 },
                                 "Position": {
                                   "X": 47.9467,
-                                  "Y": 38.0052
+                                  "Y": 44.9728
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -970,13 +970,13 @@
                                 },
                                 "LeftMargin": 47.9467,
                                 "RightMargin": 15.0461,
-                                "TopMargin": 5.9988,
-                                "BottomMargin": 30.0042,
+                                "TopMargin": 7.0985,
+                                "BottomMargin": 35.505,
                                 "Tag": 694,
                                 "ActionTag": 347094629,
                                 "Size": {
                                   "X": 122.9912,
-                                  "Y": 16.0019
+                                  "Y": 18.9356
                                 },
                                 "Name": "InfoLabel",
                                 "ctype": "TextObjectData"
@@ -1008,7 +1008,7 @@
                                 },
                                 "Position": {
                                   "X": 48.672,
-                                  "Y": 18.4721
+                                  "Y": 21.8587
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1032,13 +1032,13 @@
                                 },
                                 "LeftMargin": 48.672,
                                 "RightMargin": 115.3101,
-                                "TopMargin": 23.2388,
-                                "BottomMargin": 7.7666,
+                                "TopMargin": 27.4992,
+                                "BottomMargin": 9.1904,
                                 "Tag": 695,
                                 "ActionTag": -1672651740,
                                 "Size": {
                                   "X": 22.0019,
-                                  "Y": 20.9996
+                                  "Y": 24.8495
                                 },
                                 "Name": "Info",
                                 "ctype": "TextObjectData"
@@ -1047,7 +1047,7 @@
                             "ActionTag": 1054314364,
                             "Size": {
                               "X": 185.984,
-                              "Y": 52.0049
+                              "Y": 61.5391
                             },
                             "Name": "InfoContainer_1",
                             "ctype": "ImageViewObjectData"
@@ -1068,7 +1068,7 @@
                             },
                             "Position": {
                               "X": 308.5833,
-                              "Y": 115.0041
+                              "Y": 136.0882
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -1092,8 +1092,8 @@
                             },
                             "LeftMargin": 215.5913,
                             "RightMargin": 15.4292,
-                            "TopMargin": 89.0017,
-                            "BottomMargin": 89.0017,
+                            "TopMargin": 105.3187,
+                            "BottomMargin": 105.3187,
                             "Tag": 697,
                             "Children": [
                               {
@@ -1112,7 +1112,7 @@
                                 },
                                 "Position": {
                                   "X": 26.3167,
-                                  "Y": 26.0024
+                                  "Y": 30.7696
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1136,13 +1136,13 @@
                                 },
                                 "LeftMargin": 11.3171,
                                 "RightMargin": 144.6677,
-                                "TopMargin": 9.5013,
-                                "BottomMargin": 9.5013,
+                                "TopMargin": 11.2432,
+                                "BottomMargin": 11.2432,
                                 "Tag": 698,
                                 "ActionTag": 380274147,
                                 "Size": {
                                   "X": 29.9992,
-                                  "Y": 33.0023
+                                  "Y": 39.0527
                                 },
                                 "Name": "StatIcon",
                                 "ctype": "ImageViewObjectData"
@@ -1172,7 +1172,7 @@
                                 },
                                 "Position": {
                                   "X": 47.9467,
-                                  "Y": 38.0052
+                                  "Y": 44.9728
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1200,13 +1200,13 @@
                                 },
                                 "LeftMargin": 47.9467,
                                 "RightMargin": 15.0461,
-                                "TopMargin": 5.9988,
-                                "BottomMargin": 30.0042,
+                                "TopMargin": 7.0985,
+                                "BottomMargin": 35.505,
                                 "Tag": 699,
                                 "ActionTag": -1528105190,
                                 "Size": {
                                   "X": 122.9912,
-                                  "Y": 16.0019
+                                  "Y": 18.9356
                                 },
                                 "Name": "InfoLabel",
                                 "ctype": "TextObjectData"
@@ -1238,7 +1238,7 @@
                                 },
                                 "Position": {
                                   "X": 48.672,
-                                  "Y": 17.8273
+                                  "Y": 21.0956
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1262,13 +1262,13 @@
                                 },
                                 "LeftMargin": 48.672,
                                 "RightMargin": 115.3101,
-                                "TopMargin": 23.241,
-                                "BottomMargin": 7.7643,
+                                "TopMargin": 27.5019,
+                                "BottomMargin": 9.1877,
                                 "Tag": 700,
                                 "ActionTag": -667447894,
                                 "Size": {
                                   "X": 22.0019,
-                                  "Y": 20.9996
+                                  "Y": 24.8495
                                 },
                                 "Name": "Info",
                                 "ctype": "TextObjectData"
@@ -1277,7 +1277,7 @@
                             "ActionTag": 218418343,
                             "Size": {
                               "X": 185.984,
-                              "Y": 52.0049
+                              "Y": 61.5391
                             },
                             "Name": "InfoContainer_2",
                             "ctype": "ImageViewObjectData"
@@ -1298,7 +1298,7 @@
                             },
                             "Position": {
                               "X": 114.6762,
-                              "Y": 57.5021
+                              "Y": 68.0441
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -1322,8 +1322,8 @@
                             },
                             "LeftMargin": 21.6842,
                             "RightMargin": 209.3362,
-                            "TopMargin": 146.5038,
-                            "BottomMargin": 31.4996,
+                            "TopMargin": 173.3628,
+                            "BottomMargin": 37.2746,
                             "Tag": 702,
                             "Children": [
                               {
@@ -1342,7 +1342,7 @@
                                 },
                                 "Position": {
                                   "X": 26.3167,
-                                  "Y": 26.0024
+                                  "Y": 30.7696
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1366,13 +1366,13 @@
                                 },
                                 "LeftMargin": 11.3171,
                                 "RightMargin": 144.6677,
-                                "TopMargin": 10.5024,
-                                "BottomMargin": 10.5024,
+                                "TopMargin": 12.4278,
+                                "BottomMargin": 12.4278,
                                 "Tag": 703,
                                 "ActionTag": 399974194,
                                 "Size": {
                                   "X": 29.9992,
-                                  "Y": 31.0001
+                                  "Y": 36.6835
                                 },
                                 "Name": "StatIcon",
                                 "ctype": "ImageViewObjectData"
@@ -1402,7 +1402,7 @@
                                 },
                                 "Position": {
                                   "X": 47.9467,
-                                  "Y": 38.0052
+                                  "Y": 44.9728
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1430,13 +1430,13 @@
                                 },
                                 "LeftMargin": 47.9467,
                                 "RightMargin": 15.0461,
-                                "TopMargin": 5.9988,
-                                "BottomMargin": 30.0042,
+                                "TopMargin": 7.0985,
+                                "BottomMargin": 35.505,
                                 "Tag": 704,
                                 "ActionTag": 413127280,
                                 "Size": {
                                   "X": 122.9912,
-                                  "Y": 16.0019
+                                  "Y": 18.9356
                                 },
                                 "Name": "InfoLabel",
                                 "ctype": "TextObjectData"
@@ -1468,7 +1468,7 @@
                                 },
                                 "Position": {
                                   "X": 48.672,
-                                  "Y": 18.2641
+                                  "Y": 21.6125
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1491,14 +1491,14 @@
                                   "Y": 0.4038
                                 },
                                 "LeftMargin": 48.672,
-                                "RightMargin": 84.3065,
-                                "TopMargin": 23.241,
-                                "BottomMargin": 7.7643,
+                                "RightMargin": 84.3066,
+                                "TopMargin": 27.5018,
+                                "BottomMargin": 9.1878,
                                 "Tag": 705,
                                 "ActionTag": 1408460750,
                                 "Size": {
                                   "X": 53.0054,
-                                  "Y": 20.9996
+                                  "Y": 24.8495
                                 },
                                 "Name": "Info",
                                 "ctype": "TextObjectData"
@@ -1507,7 +1507,7 @@
                             "ActionTag": 249747926,
                             "Size": {
                               "X": 185.984,
-                              "Y": 52.0049
+                              "Y": 61.5391
                             },
                             "Name": "InfoContainer_3",
                             "ctype": "ImageViewObjectData"
@@ -1528,7 +1528,7 @@
                             },
                             "Position": {
                               "X": 308.5833,
-                              "Y": 57.5021
+                              "Y": 68.0441
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -1552,8 +1552,8 @@
                             },
                             "LeftMargin": 215.5913,
                             "RightMargin": 15.4292,
-                            "TopMargin": 146.5038,
-                            "BottomMargin": 31.4996,
+                            "TopMargin": 173.3628,
+                            "BottomMargin": 37.2746,
                             "Tag": 707,
                             "Children": [
                               {
@@ -1572,7 +1572,7 @@
                                 },
                                 "Position": {
                                   "X": 26.3167,
-                                  "Y": 26.0024
+                                  "Y": 30.7696
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1596,13 +1596,13 @@
                                 },
                                 "LeftMargin": 11.3171,
                                 "RightMargin": 144.6677,
-                                "TopMargin": 10.0031,
-                                "BottomMargin": 10.0031,
+                                "TopMargin": 11.837,
+                                "BottomMargin": 11.837,
                                 "Tag": 708,
                                 "ActionTag": 223842122,
                                 "Size": {
                                   "X": 29.9992,
-                                  "Y": 31.9986
+                                  "Y": 37.865
                                 },
                                 "Name": "StatIcon",
                                 "ctype": "ImageViewObjectData"
@@ -1632,7 +1632,7 @@
                                 },
                                 "Position": {
                                   "X": 47.9467,
-                                  "Y": 38.0052
+                                  "Y": 44.9728
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1660,13 +1660,13 @@
                                 },
                                 "LeftMargin": 47.9467,
                                 "RightMargin": 15.0461,
-                                "TopMargin": 5.9988,
-                                "BottomMargin": 30.0042,
+                                "TopMargin": 7.0985,
+                                "BottomMargin": 35.505,
                                 "Tag": 709,
                                 "ActionTag": -959913602,
                                 "Size": {
                                   "X": 122.9912,
-                                  "Y": 16.0019
+                                  "Y": 18.9356
                                 },
                                 "Name": "InfoLabel",
                                 "ctype": "TextObjectData"
@@ -1698,7 +1698,7 @@
                                 },
                                 "Position": {
                                   "X": 48.672,
-                                  "Y": 18.4773
+                                  "Y": 21.8648
                                 },
                                 "Scale": {
                                   "ScaleX": 1.0,
@@ -1722,13 +1722,13 @@
                                 },
                                 "LeftMargin": 48.672,
                                 "RightMargin": 115.3101,
-                                "TopMargin": 23.2399,
-                                "BottomMargin": 7.7655,
+                                "TopMargin": 27.5005,
+                                "BottomMargin": 9.1891,
                                 "Tag": 710,
                                 "ActionTag": -942431742,
                                 "Size": {
                                   "X": 22.0019,
-                                  "Y": 20.9996
+                                  "Y": 24.8495
                                 },
                                 "Name": "Info",
                                 "ctype": "TextObjectData"
@@ -1737,7 +1737,7 @@
                             "ActionTag": 1003486820,
                             "Size": {
                               "X": 185.984,
-                              "Y": 52.0049
+                              "Y": 61.5391
                             },
                             "Name": "InfoContainer_4",
                             "ctype": "ImageViewObjectData"
@@ -1746,7 +1746,7 @@
                         "ActionTag": -1417366451,
                         "Size": {
                           "X": 417.0045,
-                          "Y": 230.0083
+                          "Y": 272.1765
                         },
                         "Name": "DetailContainer",
                         "ctype": "ImageViewObjectData"
@@ -1755,7 +1755,7 @@
                     "ActionTag": 632120212,
                     "Size": {
                       "X": 424.0005,
-                      "Y": 243.9888
+                      "Y": 288.7202
                     },
                     "Name": "Panel_2",
                     "ctype": "PanelObjectData"
@@ -1817,7 +1817,7 @@
                         },
                         "Position": {
                           "X": 212.0002,
-                          "Y": 130.29
+                          "Y": 154.1765
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1841,8 +1841,8 @@
                         },
                         "LeftMargin": 3.498,
                         "RightMargin": 3.498,
-                        "TopMargin": -1.3053,
-                        "BottomMargin": 15.2859,
+                        "TopMargin": -1.5446,
+                        "BottomMargin": 18.0883,
                         "Tag": 726,
                         "Children": [
                           {
@@ -1865,7 +1865,7 @@
                             },
                             "Position": {
                               "X": 210.3788,
-                              "Y": 153.0245
+                              "Y": 181.0789
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -1881,12 +1881,12 @@
                             },
                             "PreSize": {
                               "X": 0.1463,
-                              "Y": 0.1
+                              "Y": 0.0845
                             },
                             "LeftMargin": 179.8788,
                             "RightMargin": 176.1257,
-                            "TopMargin": 65.4838,
-                            "BottomMargin": 141.5245,
+                            "TopMargin": 79.5975,
+                            "BottomMargin": 169.5789,
                             "Tag": 232,
                             "ActionTag": -42551124,
                             "Size": {
@@ -1900,7 +1900,7 @@
                         "ActionTag": -25747581,
                         "Size": {
                           "X": 417.0045,
-                          "Y": 230.0083
+                          "Y": 272.1765
                         },
                         "Name": "Description",
                         "ctype": "ImageViewObjectData"
@@ -1910,7 +1910,7 @@
                     "ZOrder": 1,
                     "Size": {
                       "X": 424.0005,
-                      "Y": 243.9888
+                      "Y": 288.7202
                     },
                     "Name": "Panel_3",
                     "ctype": "PanelObjectData"
@@ -1919,7 +1919,7 @@
                 "ActionTag": 1620224355,
                 "Size": {
                   "X": 424.0005,
-                  "Y": 243.9888
+                  "Y": 288.7202
                 },
                 "Name": "PageView_2",
                 "ctype": "PageViewObjectData"
@@ -1940,7 +1940,7 @@
                 },
                 "Position": {
                   "X": 226.496,
-                  "Y": 671.567
+                  "Y": 794.6876
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -1964,8 +1964,8 @@
                 },
                 "LeftMargin": 29.4898,
                 "RightMargin": 29.4898,
-                "TopMargin": -285.5574,
-                "BottomMargin": 474.5685,
+                "TopMargin": -337.9096,
+                "BottomMargin": 561.5728,
                 "Tag": 633,
                 "Children": [
                   {
@@ -1983,8 +1983,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 306.9357,
-                      "Y": 169.4974
+                      "X": 306.9356,
+                      "Y": 200.572
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2000,12 +2000,12 @@
                     },
                     "PreSize": {
                       "X": 0.0812,
-                      "Y": 0.0838
+                      "Y": 0.0708
                     },
-                    "LeftMargin": 290.9357,
+                    "LeftMargin": 290.9356,
                     "RightMargin": 71.0768,
-                    "TopMargin": 207.9994,
-                    "BottomMargin": 152.9974,
+                    "TopMargin": 249.1576,
+                    "BottomMargin": 184.072,
                     "Tag": 173,
                     "ActionTag": -1421958308,
                     "Size": {
@@ -2031,7 +2031,7 @@
                     },
                     "Position": {
                       "X": 72.1437,
-                      "Y": 228.5576
+                      "Y": 270.4598
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2047,12 +2047,12 @@
                     },
                     "PreSize": {
                       "X": 0.0812,
-                      "Y": 0.0838
+                      "Y": 0.0708
                     },
                     "LeftMargin": 56.1437,
                     "RightMargin": 305.8687,
-                    "TopMargin": 148.9393,
-                    "BottomMargin": 212.0576,
+                    "TopMargin": 179.2698,
+                    "BottomMargin": 253.9598,
                     "Tag": 174,
                     "ActionTag": -573020268,
                     "Size": {
@@ -2078,7 +2078,7 @@
                     },
                     "Position": {
                       "X": 162.9241,
-                      "Y": 234.8615
+                      "Y": 277.9195
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2094,12 +2094,12 @@
                     },
                     "PreSize": {
                       "X": 0.0812,
-                      "Y": 0.0838
+                      "Y": 0.0708
                     },
                     "LeftMargin": 146.9241,
                     "RightMargin": 215.0883,
-                    "TopMargin": 142.6353,
-                    "BottomMargin": 218.3615,
+                    "TopMargin": 171.8101,
+                    "BottomMargin": 261.4195,
                     "Tag": 175,
                     "ActionTag": 724932108,
                     "Size": {
@@ -2125,7 +2125,7 @@
                     },
                     "Position": {
                       "X": 121.6316,
-                      "Y": 88.4129
+                      "Y": 104.6219
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2141,12 +2141,12 @@
                     },
                     "PreSize": {
                       "X": 0.0812,
-                      "Y": 0.0838
+                      "Y": 0.0708
                     },
                     "LeftMargin": 105.6316,
                     "RightMargin": 256.3808,
-                    "TopMargin": 289.0839,
-                    "BottomMargin": 71.9129,
+                    "TopMargin": 345.1077,
+                    "BottomMargin": 88.1219,
                     "Tag": 176,
                     "ActionTag": -682898693,
                     "Size": {
@@ -2172,7 +2172,7 @@
                     },
                     "Position": {
                       "X": 177.4632,
-                      "Y": 323.8654
+                      "Y": 383.2408
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2188,12 +2188,12 @@
                     },
                     "PreSize": {
                       "X": 0.0508,
-                      "Y": 0.0508
+                      "Y": 0.0429
                     },
                     "LeftMargin": 167.4632,
                     "RightMargin": 206.5492,
-                    "TopMargin": 60.1314,
-                    "BottomMargin": 313.8654,
+                    "TopMargin": 72.9888,
+                    "BottomMargin": 373.2408,
                     "Tag": 177,
                     "ActionTag": 32325767,
                     "Size": {
@@ -2219,7 +2219,7 @@
                     },
                     "Position": {
                       "X": 251.9315,
-                      "Y": 297.1918
+                      "Y": 351.677
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2235,12 +2235,12 @@
                     },
                     "PreSize": {
                       "X": 0.0508,
-                      "Y": 0.0508
+                      "Y": 0.0429
                     },
                     "LeftMargin": 241.9315,
                     "RightMargin": 132.0809,
-                    "TopMargin": 86.805,
-                    "BottomMargin": 287.1918,
+                    "TopMargin": 104.5526,
+                    "BottomMargin": 341.677,
                     "Tag": 178,
                     "ActionTag": 626743296,
                     "Size": {
@@ -2265,8 +2265,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 163.2,
-                      "Y": 293.6458
+                      "X": 163.1999,
+                      "Y": 347.4809
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2282,12 +2282,12 @@
                     },
                     "PreSize": {
                       "X": 0.0508,
-                      "Y": 0.0508
+                      "Y": 0.0429
                     },
-                    "LeftMargin": 153.2,
+                    "LeftMargin": 153.1999,
                     "RightMargin": 220.8125,
-                    "TopMargin": 90.351,
-                    "BottomMargin": 283.6458,
+                    "TopMargin": 108.7487,
+                    "BottomMargin": 337.4809,
                     "Tag": 179,
                     "ActionTag": -451250919,
                     "Size": {
@@ -2301,7 +2301,7 @@
                 "ActionTag": -1448127720,
                 "Size": {
                   "X": 394.0124,
-                  "Y": 393.9968
+                  "Y": 466.2296
                 },
                 "Alpha": 166,
                 "Name": "miniature_glow",
@@ -2322,8 +2322,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 206.2925,
-                  "Y": 134.7331
+                  "X": 206.2926,
+                  "Y": 159.4342
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2347,13 +2347,13 @@
                 },
                 "LeftMargin": 196.2814,
                 "RightMargin": 236.6883,
-                "TopMargin": 438.2763,
-                "BottomMargin": 124.7346,
+                "TopMargin": 518.6269,
+                "BottomMargin": 147.6026,
                 "Tag": 724,
                 "ActionTag": 2075680830,
                 "Size": {
                   "X": 20.0222,
-                  "Y": 19.9972
+                  "Y": 23.6633
                 },
                 "Name": "PanelPage1Selecting",
                 "ctype": "ImageViewObjectData"
@@ -2374,7 +2374,7 @@
                 },
                 "Position": {
                   "X": 242.4866,
-                  "Y": 134.7331
+                  "Y": 159.4342
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2398,13 +2398,13 @@
                 },
                 "LeftMargin": 232.4755,
                 "RightMargin": 200.4942,
-                "TopMargin": 438.2763,
-                "BottomMargin": 124.7346,
+                "TopMargin": 518.6269,
+                "BottomMargin": 147.6026,
                 "Tag": 723,
                 "ActionTag": -847019504,
                 "Size": {
                   "X": 20.0222,
-                  "Y": 19.9972
+                  "Y": 23.6633
                 },
                 "Name": "PanelPage2",
                 "ctype": "ImageViewObjectData"
@@ -2425,7 +2425,7 @@
                 },
                 "Position": {
                   "X": 207.1985,
-                  "Y": 134.7331
+                  "Y": 159.4342
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2449,13 +2449,13 @@
                 },
                 "LeftMargin": 197.1874,
                 "RightMargin": 235.7823,
-                "TopMargin": 438.2763,
-                "BottomMargin": 124.7346,
+                "TopMargin": 518.6269,
+                "BottomMargin": 147.6026,
                 "Tag": 728,
                 "ActionTag": -311311093,
                 "Size": {
                   "X": 20.0222,
-                  "Y": 19.9972
+                  "Y": 23.6633
                 },
                 "VisibleForFrame": false,
                 "Name": "PanelPage1",
@@ -2477,7 +2477,7 @@
                 },
                 "Position": {
                   "X": 241.6712,
-                  "Y": 134.7331
+                  "Y": 159.4342
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2501,13 +2501,13 @@
                 },
                 "LeftMargin": 231.6601,
                 "RightMargin": 201.3096,
-                "TopMargin": 438.2763,
-                "BottomMargin": 124.7346,
+                "TopMargin": 518.6269,
+                "BottomMargin": 147.6026,
                 "Tag": 727,
                 "ActionTag": 584556654,
                 "Size": {
                   "X": 20.0222,
-                  "Y": 19.9972
+                  "Y": 23.6633
                 },
                 "VisibleForFrame": false,
                 "Name": "PanelPage2Selecting",
@@ -2529,7 +2529,7 @@
                 },
                 "Position": {
                   "X": 225.6806,
-                  "Y": 666.0283
+                  "Y": 788.1336
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2551,15 +2551,15 @@
                   "X": 0.4459,
                   "Y": 0.3499
                 },
-                "LeftMargin": 124.686,
+                "LeftMargin": 124.6861,
                 "RightMargin": 126.3168,
-                "TopMargin": -185.0176,
-                "BottomMargin": 564.0311,
+                "TopMargin": -218.9376,
+                "BottomMargin": 667.4368,
                 "Tag": 632,
                 "ActionTag": -1935587420,
                 "Size": {
                   "X": 201.9891,
-                  "Y": 203.9945
+                  "Y": 241.3935
                 },
                 "Name": "Miniature",
                 "ctype": "ImageViewObjectData"
@@ -2590,8 +2590,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 284.9319,
-                  "Y": 496.373
+                  "X": 284.932,
+                  "Y": 587.3748
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2619,13 +2619,13 @@
                 },
                 "LeftMargin": 238.9306,
                 "RightMargin": 122.0587,
-                "TopMargin": 74.1295,
-                "BottomMargin": 483.8675,
+                "TopMargin": 87.7198,
+                "BottomMargin": 572.5765,
                 "Tag": 664,
                 "ActionTag": -768007333,
                 "Size": {
                   "X": 92.0027,
-                  "Y": 25.011
+                  "Y": 29.5964
                 },
                 "Name": "LevelLabel",
                 "ctype": "TextObjectData"
@@ -2646,8 +2646,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 284.9319,
-                  "Y": 455.9123
+                  "X": 284.932,
+                  "Y": 539.4962
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2670,9 +2670,9 @@
                   "Y": 0.0583
                 },
                 "LeftMargin": 220.9242,
-                "RightMargin": 104.0523,
-                "TopMargin": 110.101,
-                "BottomMargin": 438.9176,
+                "RightMargin": 104.0522,
+                "TopMargin": 130.2862,
+                "BottomMargin": 519.3859,
                 "Tag": 665,
                 "Children": [
                   {
@@ -2702,7 +2702,7 @@
                     },
                     "Position": {
                       "X": 64.0078,
-                      "Y": 16.9947
+                      "Y": 20.1103
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2730,13 +2730,13 @@
                     },
                     "LeftMargin": 45.5095,
                     "RightMargin": 45.5095,
-                    "TopMargin": 8.9953,
-                    "BottomMargin": 8.9953,
+                    "TopMargin": 10.6445,
+                    "BottomMargin": 10.6444,
                     "Tag": 667,
                     "ActionTag": -833232921,
                     "Size": {
                       "X": 36.9965,
-                      "Y": 15.9988
+                      "Y": 18.9319
                     },
                     "Name": "Text_14",
                     "ctype": "TextObjectData"
@@ -2757,7 +2757,7 @@
                     },
                     "Position": {
                       "X": 64.0078,
-                      "Y": -8.1574
+                      "Y": -9.653
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2781,8 +2781,8 @@
                     },
                     "LeftMargin": 9.0059,
                     "RightMargin": 9.0059,
-                    "TopMargin": 27.6469,
-                    "BottomMargin": -22.6573,
+                    "TopMargin": 32.7156,
+                    "BottomMargin": -26.8111,
                     "Tag": 668,
                     "Children": [
                       {
@@ -2812,7 +2812,7 @@
                         },
                         "Position": {
                           "X": 55.0019,
-                          "Y": 14.4999
+                          "Y": 17.1582
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2840,13 +2840,13 @@
                         },
                         "LeftMargin": 6.5012,
                         "RightMargin": 6.5012,
-                        "TopMargin": 6.5003,
-                        "BottomMargin": 6.5003,
+                        "TopMargin": 7.6919,
+                        "BottomMargin": 7.692,
                         "Tag": 669,
                         "ActionTag": -433088620,
                         "Size": {
                           "X": 97.0013,
-                          "Y": 15.9991
+                          "Y": 18.9324
                         },
                         "Name": "RuleCard",
                         "ctype": "TextObjectData"
@@ -2855,7 +2855,7 @@
                     "ActionTag": 2010433186,
                     "Size": {
                       "X": 110.0037,
-                      "Y": 28.9997
+                      "Y": 34.3163
                     },
                     "Name": "RuleLabel",
                     "ctype": "ImageViewObjectData"
@@ -2864,7 +2864,7 @@
                 "ActionTag": -1367543919,
                 "Size": {
                   "X": 128.0155,
-                  "Y": 33.9894
+                  "Y": 40.2208
                 },
                 "Name": "TypeCard",
                 "ctype": "ImageViewObjectData"
@@ -2913,8 +2913,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 416.7526,
-                  "Y": 548.9603
+                  "X": 416.7527,
+                  "Y": 649.6031
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -2936,15 +2936,15 @@
                   "X": 0.0883,
                   "Y": 0.0686
                 },
-                "LeftMargin": 396.753,
+                "LeftMargin": 396.7531,
                 "RightMargin": 16.2397,
-                "TopMargin": 14.0505,
-                "BottomMargin": 528.9631,
+                "TopMargin": 16.6263,
+                "BottomMargin": 625.9398,
                 "Tag": 671,
                 "ActionTag": 1277829643,
                 "Size": {
                   "X": 39.9992,
-                  "Y": 39.9943
+                  "Y": 47.3266
                 },
                 "Name": "CancelButton",
                 "ctype": "ButtonObjectData"
@@ -2995,7 +2995,7 @@
                 },
                 "Position": {
                   "X": 226.496,
-                  "Y": 75.791
+                  "Y": 89.6861
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3018,9 +3018,9 @@
                   "Y": 0.1458
                 },
                 "LeftMargin": 151.5032,
-                "RightMargin": 151.5032,
-                "TopMargin": 464.7157,
-                "BottomMargin": 33.2898,
+                "RightMargin": 151.5031,
+                "TopMargin": 549.9135,
+                "BottomMargin": 39.3929,
                 "Tag": 712,
                 "Children": [
                   {
@@ -3051,7 +3051,7 @@
                     },
                     "Position": {
                       "X": 74.9928,
-                      "Y": 55.2517
+                      "Y": 65.3812
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3074,14 +3074,14 @@
                       "Y": 0.2471
                     },
                     "LeftMargin": 28.9922,
-                    "RightMargin": 28.9922,
-                    "TopMargin": 19.2488,
-                    "BottomMargin": 44.7496,
+                    "RightMargin": 28.9923,
+                    "TopMargin": 22.7778,
+                    "BottomMargin": 52.9537,
                     "Tag": 716,
                     "ActionTag": 414372784,
                     "Size": {
                       "X": 92.0012,
-                      "Y": 21.0041
+                      "Y": 24.8549
                     },
                     "Name": "Text_37",
                     "ctype": "TextObjectData"
@@ -3113,7 +3113,7 @@
                     },
                     "Position": {
                       "X": 57.3695,
-                      "Y": 30.8814
+                      "Y": 36.543
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3137,13 +3137,13 @@
                     },
                     "LeftMargin": 57.3695,
                     "RightMargin": 28.6173,
-                    "TopMargin": 42.123,
-                    "BottomMargin": 18.8833,
+                    "TopMargin": 49.8456,
+                    "BottomMargin": 22.3453,
                     "Tag": 718,
                     "ActionTag": -324081896,
                     "Size": {
                       "X": 63.9989,
-                      "Y": 23.9962
+                      "Y": 28.3955
                     },
                     "Name": "GoldToUpgradeLabel",
                     "ctype": "TextObjectData"
@@ -3164,7 +3164,7 @@
                     },
                     "Position": {
                       "X": 41.576,
-                      "Y": 30.0739
+                      "Y": 35.5875
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3188,13 +3188,13 @@
                     },
                     "LeftMargin": 29.0747,
                     "RightMargin": 95.9083,
-                    "TopMargin": 41.9275,
-                    "BottomMargin": 17.0728,
+                    "TopMargin": 49.6142,
+                    "BottomMargin": 20.2028,
                     "Tag": 717,
                     "ActionTag": 1026587365,
                     "Size": {
                       "X": 25.0026,
-                      "Y": 26.0023
+                      "Y": 30.7694
                     },
                     "Name": "Image_35",
                     "ctype": "ImageViewObjectData"
@@ -3203,7 +3203,7 @@
                 "ActionTag": -266728273,
                 "Size": {
                   "X": 149.9856,
-                  "Y": 85.0026
+                  "Y": 100.5864
                 },
                 "Name": "UpgradeButton",
                 "ctype": "ButtonObjectData"
@@ -3254,7 +3254,7 @@
                 },
                 "Position": {
                   "X": 76.1027,
-                  "Y": 75.791
+                  "Y": 89.6861
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3278,8 +3278,8 @@
                 },
                 "LeftMargin": 16.1039,
                 "RightMargin": 316.8905,
-                "TopMargin": 464.7157,
-                "BottomMargin": 33.2898,
+                "TopMargin": 549.9135,
+                "BottomMargin": 39.3929,
                 "Tag": 713,
                 "Children": [
                   {
@@ -3311,7 +3311,7 @@
                     },
                     "Position": {
                       "X": 60.9948,
-                      "Y": 42.5013
+                      "Y": 50.2932
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3334,14 +3334,14 @@
                       "Y": 0.2823
                     },
                     "LeftMargin": 14.0937,
-                    "RightMargin": 12.1018,
-                    "TopMargin": 30.5032,
-                    "BottomMargin": 30.5032,
+                    "RightMargin": 12.1017,
+                    "TopMargin": 36.0954,
+                    "BottomMargin": 36.0954,
                     "Tag": 715,
                     "ActionTag": -1649115370,
                     "Size": {
                       "X": 93.8021,
-                      "Y": 23.9962
+                      "Y": 28.3955
                     },
                     "Name": "Text_36",
                     "ctype": "TextObjectData"
@@ -3350,7 +3350,7 @@
                 "ActionTag": 1791811070,
                 "Size": {
                   "X": 119.9976,
-                  "Y": 85.0026
+                  "Y": 100.5864
                 },
                 "Name": "SelectButton",
                 "ctype": "ButtonObjectData"
@@ -3401,7 +3401,7 @@
                 },
                 "Position": {
                   "X": 371.997,
-                  "Y": 75.791
+                  "Y": 89.6861
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3423,10 +3423,10 @@
                   "X": 0.2649,
                   "Y": 0.1458
                 },
-                "LeftMargin": 311.9982,
+                "LeftMargin": 311.9983,
                 "RightMargin": 20.9962,
-                "TopMargin": 464.7157,
-                "BottomMargin": 33.2898,
+                "TopMargin": 549.9135,
+                "BottomMargin": 39.3929,
                 "Tag": 714,
                 "Children": [
                   {
@@ -3457,7 +3457,7 @@
                     },
                     "Position": {
                       "X": 59.9988,
-                      "Y": 42.5013
+                      "Y": 50.2932
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3481,13 +3481,13 @@
                     "VerticalEdge": "BothEdge",
                     "LeftMargin": 31.4994,
                     "RightMargin": 31.4994,
-                    "TopMargin": 29.0029,
-                    "BottomMargin": 29.0029,
+                    "TopMargin": 34.32,
+                    "BottomMargin": 34.3201,
                     "Tag": 719,
                     "ActionTag": -1058303203,
                     "Size": {
-                      "X": 56.9988,
-                      "Y": 26.9968
+                      "X": 56.9989,
+                      "Y": 31.9462
                     },
                     "Name": "Text_39",
                     "ctype": "TextObjectData"
@@ -3496,7 +3496,7 @@
                 "ActionTag": -2070871146,
                 "Size": {
                   "X": 119.9976,
-                  "Y": 85.0026
+                  "Y": 100.5864
                 },
                 "Name": "SkillButton",
                 "ctype": "ButtonObjectData"
@@ -3526,8 +3526,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 285.2037,
-                  "Y": 402.6253
+                  "X": 285.2038,
+                  "Y": 476.44
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3556,13 +3556,13 @@
                 },
                 "LeftMargin": 226.6998,
                 "RightMargin": 109.2843,
-                "TopMargin": 169.393,
-                "BottomMargin": 391.6356,
+                "TopMargin": 200.4483,
+                "BottomMargin": 463.4355,
                 "Tag": 180,
                 "ActionTag": -1330201514,
                 "Size": {
                   "X": 117.0078,
-                  "Y": 21.9794
+                  "Y": 26.009
                 },
                 "VisibleForFrame": false,
                 "Name": "Text_19",
@@ -3614,7 +3614,7 @@
                 },
                 "Position": {
                   "X": 400.2184,
-                  "Y": 400.235
+                  "Y": 473.6114
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3638,8 +3638,8 @@
                 },
                 "LeftMargin": 372.7218,
                 "RightMargin": 25.2769,
-                "TopMargin": 160.2689,
-                "BottomMargin": 377.7309,
+                "TopMargin": 189.6515,
+                "BottomMargin": 446.9816,
                 "Tag": 146,
                 "Children": [
                   {
@@ -3668,7 +3668,7 @@
                     },
                     "Position": {
                       "X": 38.0443,
-                      "Y": 26.2488
+                      "Y": 31.0611
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3690,15 +3690,15 @@
                       "X": 0.2182,
                       "Y": 0.5999
                     },
-                    "LeftMargin": 32.0446,
+                    "LeftMargin": 32.0445,
                     "RightMargin": 10.9492,
-                    "TopMargin": 5.2592,
-                    "BottomMargin": 12.7486,
+                    "TopMargin": 6.2234,
+                    "BottomMargin": 15.0858,
                     "Tag": 675,
                     "ActionTag": -1925373616,
                     "Size": {
                       "X": 11.9995,
-                      "Y": 27.0004
+                      "Y": 31.9505
                     },
                     "Name": "LevelLabel",
                     "ctype": "TextObjectData"
@@ -3719,7 +3719,7 @@
                     },
                     "Position": {
                       "X": 18.8517,
-                      "Y": 25.7177
+                      "Y": 30.4326
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3743,13 +3743,13 @@
                     },
                     "LeftMargin": 6.3517,
                     "RightMargin": 23.6416,
-                    "TopMargin": 8.7879,
-                    "BottomMargin": 15.215,
+                    "TopMargin": 10.399,
+                    "BottomMargin": 18.0044,
                     "Tag": 674,
                     "ActionTag": -226173981,
                     "Size": {
                       "X": 24.9999,
-                      "Y": 21.0053
+                      "Y": 24.8563
                     },
                     "Name": "Image_16",
                     "ctype": "ImageViewObjectData"
@@ -3758,7 +3758,7 @@
                 "ActionTag": 1164519218,
                 "Size": {
                   "X": 54.9932,
-                  "Y": 45.0082
+                  "Y": 53.2597
                 },
                 "Name": "PreviewButton",
                 "ctype": "ButtonObjectData"
@@ -3767,7 +3767,7 @@
             "ActionTag": 391003244,
             "Size": {
               "X": 452.992,
-              "Y": 583.008
+              "Y": 689.8928
             },
             "Name": "ContainerInfo",
             "ctype": "ImageViewObjectData"
@@ -3789,7 +3789,7 @@
             },
             "Position": {
               "X": 318.72,
-              "Y": 399.464
+              "Y": 472.6896
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -3812,9 +3812,9 @@
               "Y": 0.6073
             },
             "LeftMargin": 92.224,
-            "RightMargin": 94.7841,
-            "TopMargin": 269.032,
-            "BottomMargin": 107.96,
+            "RightMargin": 94.784,
+            "TopMargin": 318.364,
+            "BottomMargin": 127.7432,
             "Tag": 115,
             "Children": [
               {
@@ -3842,7 +3842,7 @@
                 },
                 "Position": {
                   "X": 226.496,
-                  "Y": 540.4946
+                  "Y": 639.5996
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3862,12 +3862,12 @@
                 },
                 "PreSize": {
                   "X": 0.2605,
-                  "Y": 0.0463
+                  "Y": 0.0391
                 },
                 "LeftMargin": 167.496,
                 "RightMargin": 167.496,
-                "TopMargin": 29.0134,
-                "BottomMargin": 526.9946,
+                "TopMargin": 36.7932,
+                "BottomMargin": 626.0996,
                 "Tag": 116,
                 "ActionTag": 2000051102,
                 "Size": {
@@ -3893,7 +3893,7 @@
                 },
                 "Position": {
                   "X": 226.496,
-                  "Y": 483.02
+                  "Y": 571.5762
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3917,13 +3917,13 @@
                 },
                 "LeftMargin": 196.4853,
                 "RightMargin": 196.4853,
-                "TopMargin": 69.9922,
-                "BottomMargin": 453.0242,
+                "TopMargin": 82.8216,
+                "BottomMargin": 536.0812,
                 "Tag": 117,
                 "ActionTag": 1375271900,
                 "Size": {
                   "X": 60.0214,
-                  "Y": 59.9915
+                  "Y": 70.99
                 },
                 "Alpha": 83,
                 "Name": "SkillImage",
@@ -3954,7 +3954,7 @@
                 },
                 "Position": {
                   "X": 226.496,
-                  "Y": 419.05
+                  "Y": 495.895
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -3974,12 +3974,12 @@
                 },
                 "PreSize": {
                   "X": 0.702,
-                  "Y": 0.048
+                  "Y": 0.0406
                 },
                 "LeftMargin": 67.496,
                 "RightMargin": 67.496,
-                "TopMargin": 149.958,
-                "BottomMargin": 405.05,
+                "TopMargin": 179.9978,
+                "BottomMargin": 481.895,
                 "Tag": 118,
                 "ActionTag": -90332891,
                 "Size": {
@@ -4005,8 +4005,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 228.9874,
-                  "Y": 287.6561
+                  "X": 228.9875,
+                  "Y": 340.3931
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -4028,10 +4028,10 @@
                   "X": 0.8764,
                   "Y": 0.3671
                 },
-                "LeftMargin": 30.4863,
+                "LeftMargin": 30.4864,
                 "RightMargin": 25.5034,
-                "TopMargin": 188.3408,
-                "BottomMargin": 180.645,
+                "TopMargin": 222.8698,
+                "BottomMargin": 213.7633,
                 "Tag": 119,
                 "Children": [
                   {
@@ -4057,7 +4057,7 @@
                     },
                     "Position": {
                       "X": 198.5011,
-                      "Y": 181.7099
+                      "Y": 215.0174
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4077,12 +4077,12 @@
                     },
                     "PreSize": {
                       "X": 0.4232,
-                      "Y": 0.1542
+                      "Y": 0.1303
                     },
                     "LeftMargin": 114.5011,
                     "RightMargin": 114.5011,
-                    "TopMargin": 15.8123,
-                    "BottomMargin": 165.2099,
+                    "TopMargin": 21.7423,
+                    "BottomMargin": 198.5174,
                     "Tag": 120,
                     "ActionTag": 2111876258,
                     "Size": {
@@ -4118,7 +4118,7 @@
                     },
                     "Position": {
                       "X": 198.5011,
-                      "Y": 101.8104
+                      "Y": 120.4756
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4146,13 +4146,13 @@
                     },
                     "LeftMargin": 26.4999,
                     "RightMargin": 26.4999,
-                    "TopMargin": 61.7119,
-                    "BottomMargin": 51.3104,
+                    "TopMargin": 73.0275,
+                    "BottomMargin": 60.719,
                     "Tag": 121,
                     "ActionTag": 2077057426,
                     "Size": {
                       "X": 344.0024,
-                      "Y": 101.0
+                      "Y": 119.5132
                     },
                     "Name": "Text_5",
                     "ctype": "TextObjectData"
@@ -4161,7 +4161,7 @@
                 "ActionTag": -358587565,
                 "Size": {
                   "X": 397.0022,
-                  "Y": 214.0222
+                  "Y": 253.2597
                 },
                 "Name": "Description",
                 "ctype": "ImageViewObjectData"
@@ -4183,7 +4183,7 @@
                 },
                 "Position": {
                   "X": 128.242,
-                  "Y": 129.2529
+                  "Y": 152.9492
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -4207,8 +4207,8 @@
                 },
                 "LeftMargin": 30.7355,
                 "RightMargin": 227.2434,
-                "TopMargin": 407.7558,
-                "BottomMargin": 83.2535,
+                "TopMargin": 482.511,
+                "BottomMargin": 98.5167,
                 "Tag": 122,
                 "Children": [
                   {
@@ -4236,8 +4236,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 97.5065,
-                      "Y": 68.999
+                      "X": 97.5066,
+                      "Y": 81.6488
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4264,14 +4264,14 @@
                       "Y": 0.3044
                     },
                     "LeftMargin": 14.626,
-                    "RightMargin": 14.626,
-                    "TopMargin": 8.9975,
-                    "BottomMargin": 54.9968,
+                    "RightMargin": 14.6259,
+                    "TopMargin": 10.647,
+                    "BottomMargin": 65.0796,
                     "Tag": 123,
                     "ActionTag": 834624918,
                     "Size": {
                       "X": 165.7611,
-                      "Y": 28.0044
+                      "Y": 33.1385
                     },
                     "Name": "InfoText",
                     "ctype": "TextObjectData"
@@ -4302,8 +4302,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 97.5065,
-                      "Y": 37.7194
+                      "X": 97.5066,
+                      "Y": 44.6347
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4331,13 +4331,13 @@
                     },
                     "LeftMargin": 19.5013,
                     "RightMargin": 19.5013,
-                    "TopMargin": 40.277,
-                    "BottomMargin": 23.7173,
+                    "TopMargin": 47.6611,
+                    "BottomMargin": 28.0654,
                     "Tag": 124,
                     "ActionTag": -239292144,
                     "Size": {
-                      "X": 156.0104,
-                      "Y": 28.0044
+                      "X": 156.0105,
+                      "Y": 33.1385
                     },
                     "Name": "InfoStat",
                     "ctype": "TextObjectData"
@@ -4345,8 +4345,8 @@
                 ],
                 "ActionTag": -239780872,
                 "Size": {
-                  "X": 195.013,
-                  "Y": 91.9987
+                  "X": 195.0131,
+                  "Y": 108.8651
                 },
                 "Name": "Info1",
                 "ctype": "ImageViewObjectData"
@@ -4368,7 +4368,7 @@
                 },
                 "Position": {
                   "X": 327.332,
-                  "Y": 129.4861
+                  "Y": 153.2252
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -4391,9 +4391,9 @@
                   "Y": 0.1578
                 },
                 "LeftMargin": 229.8255,
-                "RightMargin": 28.1535,
-                "TopMargin": 407.5226,
-                "BottomMargin": 83.4868,
+                "RightMargin": 28.1534,
+                "TopMargin": 482.235,
+                "BottomMargin": 98.7927,
                 "Tag": 125,
                 "Children": [
                   {
@@ -4421,8 +4421,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 97.5065,
-                      "Y": 68.999
+                      "X": 97.5066,
+                      "Y": 81.6488
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4449,14 +4449,14 @@
                       "Y": 0.3044
                     },
                     "LeftMargin": 14.626,
-                    "RightMargin": 14.626,
-                    "TopMargin": 8.9975,
-                    "BottomMargin": 54.9968,
+                    "RightMargin": 14.6259,
+                    "TopMargin": 10.647,
+                    "BottomMargin": 65.0796,
                     "Tag": 126,
                     "ActionTag": -1139844372,
                     "Size": {
                       "X": 165.7611,
-                      "Y": 28.0044
+                      "Y": 33.1385
                     },
                     "Name": "InfoText",
                     "ctype": "TextObjectData"
@@ -4487,8 +4487,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 97.5065,
-                      "Y": 37.7194
+                      "X": 97.5066,
+                      "Y": 44.6347
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4516,13 +4516,13 @@
                     },
                     "LeftMargin": 19.5013,
                     "RightMargin": 19.5013,
-                    "TopMargin": 40.277,
-                    "BottomMargin": 23.7173,
+                    "TopMargin": 47.6611,
+                    "BottomMargin": 28.0654,
                     "Tag": 127,
                     "ActionTag": 1622011400,
                     "Size": {
-                      "X": 156.0104,
-                      "Y": 28.0044
+                      "X": 156.0105,
+                      "Y": 33.1385
                     },
                     "Name": "InfoStat",
                     "ctype": "TextObjectData"
@@ -4530,8 +4530,8 @@
                 ],
                 "ActionTag": -1753767688,
                 "Size": {
-                  "X": 195.013,
-                  "Y": 91.9987
+                  "X": 195.0131,
+                  "Y": 108.8651
                 },
                 "Name": "Info2",
                 "ctype": "ImageViewObjectData"
@@ -4561,7 +4561,7 @@
                 },
                 "Position": {
                   "X": 226.496,
-                  "Y": 57.8927
+                  "Y": 68.5064
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -4582,12 +4582,12 @@
                 },
                 "PreSize": {
                   "X": 0.4746,
-                  "Y": 0.0429
+                  "Y": 0.0362
                 },
                 "LeftMargin": 118.996,
                 "RightMargin": 118.996,
-                "TopMargin": 512.6153,
-                "BottomMargin": 45.3927,
+                "TopMargin": 608.8864,
+                "BottomMargin": 56.0064,
                 "Tag": 128,
                 "ActionTag": 1731153685,
                 "Size": {
@@ -4643,7 +4643,7 @@
                 },
                 "Position": {
                   "X": 38.9573,
-                  "Y": 544.1796
+                  "Y": 643.9459
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -4667,13 +4667,13 @@
                 },
                 "LeftMargin": 21.4492,
                 "RightMargin": 396.5265,
-                "TopMargin": 16.3284,
-                "BottomMargin": 521.6796,
+                "TopMargin": 19.317,
+                "BottomMargin": 617.316,
                 "Tag": 129,
                 "ActionTag": -1700517920,
                 "Size": {
                   "X": 35.0163,
-                  "Y": 45.0
+                  "Y": 53.2597
                 },
                 "Name": "BackButton",
                 "ctype": "ButtonObjectData"
@@ -4723,7 +4723,7 @@
                 },
                 "Position": {
                   "X": 414.3971,
-                  "Y": 546.9781
+                  "Y": 647.2574
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -4747,13 +4747,13 @@
                 },
                 "LeftMargin": 394.3975,
                 "RightMargin": 18.5953,
-                "TopMargin": 16.0327,
-                "BottomMargin": 526.9809,
+                "TopMargin": 18.972,
+                "BottomMargin": 623.5941,
                 "Tag": 130,
                 "ActionTag": 1053929440,
                 "Size": {
                   "X": 39.9992,
-                  "Y": 39.9943
+                  "Y": 47.3266
                 },
                 "Name": "CancelButton",
                 "ctype": "ButtonObjectData"
@@ -4762,7 +4762,7 @@
             "ActionTag": 1295193241,
             "Size": {
               "X": 452.992,
-              "Y": 583.008
+              "Y": 689.8928
             },
             "Name": "ContainerSkill",
             "ctype": "ImageViewObjectData"
@@ -4770,7 +4770,7 @@
         ],
         "Size": {
           "X": 640.0,
-          "Y": 960.0
+          "Y": 1136.0
         },
         "Name": "Layer",
         "ctype": "LayerObjectData"

@@ -30,7 +30,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 480.0
+              "Y": 568.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -56,7 +56,7 @@
             "ActionTag": 157355245,
             "Size": {
               "X": 640.0,
-              "Y": 960.0
+              "Y": 1136.0
             },
             "Name": "bg",
             "ctype": "ImageViewObjectData"
@@ -64,7 +64,7 @@
           {
             "InnerNodeSize": {
               "Width": 640,
-              "Height": 1600
+              "Height": 2000
             },
             "ScrollDirectionType": "Vertical",
             "ClipAble": false,
@@ -90,7 +90,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 444.96
+              "Y": 647.52
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -102,7 +102,7 @@
             "PositionPercentYEnabled": true,
             "PrePosition": {
               "X": 0.5,
-              "Y": 0.4635
+              "Y": 0.57
             },
             "PercentWidthEnable": true,
             "PercentHeightEnable": true,
@@ -110,10 +110,10 @@
             "PercentHeightEnabled": true,
             "PreSize": {
               "X": 1.0,
-              "Y": 0.9271
+              "Y": 0.71
             },
-            "TopMargin": 70.04,
-            "BottomMargin": -0.04,
+            "TopMargin": 85.2,
+            "BottomMargin": 244.24,
             "Tag": 337,
             "Children": [
               {
@@ -140,7 +140,7 @@
                 },
                 "Position": {
                   "X": 320.0,
-                  "Y": 1217.4299
+                  "Y": 1641.7999
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -152,7 +152,7 @@
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
                   "X": 0.5,
-                  "Y": 0.7609
+                  "Y": 0.8209
                 },
                 "PercentWidthEnable": true,
                 "PercentHeightEnable": true,
@@ -160,10 +160,10 @@
                 "PercentHeightEnabled": true,
                 "PreSize": {
                   "X": 1.0,
-                  "Y": 0.4781
+                  "Y": 0.3654
                 },
-                "TopMargin": 0.0901,
-                "BottomMargin": 834.95,
+                "TopMargin": -7.2,
+                "BottomMargin": 1276.3999,
                 "Tag": 338,
                 "Children": [
                   {
@@ -178,7 +178,7 @@
                     "AnchorPoint": {},
                     "Position": {
                       "X": 0.0,
-                      "Y": -136.6983
+                      "Y": -167.134
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -190,23 +190,21 @@
                     "PositionPercentYEnabled": true,
                     "PrePosition": {
                       "X": 0.0,
-                      "Y": -0.1787
+                      "Y": -0.2287
                     },
                     "PercentWidthEnable": true,
-                    "PercentHeightEnable": true,
                     "PercentWidthEnabled": true,
-                    "PercentHeightEnabled": true,
                     "PreSize": {
                       "X": 1.0,
-                      "Y": 1.255
+                      "Y": 1.3136
                     },
-                    "TopMargin": -58.3665,
-                    "BottomMargin": -136.6983,
+                    "TopMargin": -62.066,
+                    "BottomMargin": -167.134,
                     "Tag": 479,
                     "ActionTag": -588621218,
                     "Size": {
                       "X": 640.0,
-                      "Y": 960.0248
+                      "Y": 960.0
                     },
                     "Name": "FightCardContainerLayer",
                     "ctype": "ProjectNodeObjectData"
@@ -215,7 +213,7 @@
                 "ActionTag": 2037866895,
                 "Size": {
                   "X": 640.0,
-                  "Y": 764.96
+                  "Y": 730.8
                 },
                 "Name": "Panel_1",
                 "ctype": "PanelObjectData"
@@ -243,8 +241,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 321.216,
-                  "Y": 684.08
+                  "X": 317.504,
+                  "Y": 705.6
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -255,21 +253,19 @@
                 "PositionPercentXEnabled": true,
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
-                  "X": 0.5019,
-                  "Y": 0.4275
+                  "X": 0.4961,
+                  "Y": 0.3528
                 },
                 "PercentWidthEnable": true,
-                "PercentHeightEnable": true,
                 "PercentWidthEnabled": true,
-                "PercentHeightEnabled": true,
                 "PreSize": {
                   "X": 1.0,
-                  "Y": 0.5225
+                  "Y": 0.644
                 },
-                "LeftMargin": 1.216,
-                "RightMargin": -1.2159,
-                "TopMargin": 497.92,
-                "BottomMargin": 266.08,
+                "LeftMargin": -2.496,
+                "RightMargin": 2.496,
+                "TopMargin": 650.3999,
+                "BottomMargin": 61.6,
                 "Tag": 339,
                 "Children": [
                   {
@@ -283,8 +279,8 @@
                     "InnerActionSpeed": 1.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 0.0018,
-                      "Y": -123.8952
+                      "X": 0.0,
+                      "Y": 6.6976
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -296,25 +292,21 @@
                     "PositionPercentYEnabled": true,
                     "PrePosition": {
                       "X": 0.0,
-                      "Y": -0.1482
+                      "Y": 0.0052
                     },
                     "PercentWidthEnable": true,
-                    "PercentHeightEnable": true,
                     "PercentWidthEnabled": true,
-                    "PercentHeightEnabled": true,
                     "PreSize": {
                       "X": 1.0,
-                      "Y": 1.1483
+                      "Y": 1.0093
                     },
-                    "LeftMargin": 0.0018,
-                    "RightMargin": -0.0018,
-                    "TopMargin": -0.0836,
-                    "BottomMargin": -123.8952,
+                    "TopMargin": -18.6976,
+                    "BottomMargin": 6.6976,
                     "Tag": 1697,
                     "ActionTag": 1419077281,
                     "Size": {
                       "X": 640.0,
-                      "Y": 959.9788
+                      "Y": 1300.0
                     },
                     "Name": "CollectionCardContainerLayer",
                     "ctype": "ProjectNodeObjectData"
@@ -323,7 +315,7 @@
                 "ActionTag": -1570100254,
                 "Size": {
                   "X": 640.0,
-                  "Y": 835.9999
+                  "Y": 1288.0
                 },
                 "Name": "Panel_2",
                 "ctype": "PanelObjectData"
@@ -332,7 +324,7 @@
             "ActionTag": 366782411,
             "Size": {
               "X": 640.0,
-              "Y": 890.0
+              "Y": 806.56
             },
             "Name": "ScrollView_1",
             "ctype": "ScrollViewObjectData"
@@ -340,7 +332,7 @@
         ],
         "Size": {
           "X": 640.0,
-          "Y": 960.0
+          "Y": 1136.0
         },
         "Name": "Scene",
         "ctype": "SingleNodeObjectData"

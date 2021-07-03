@@ -167,13 +167,13 @@
           <Image Name="lobby_card_panel_miniature_particle_epic.png" />
           <Image Name="lobby_card_panel_miniature_particle_legend.png" />
           <Image Name="lobby_card_panel_miniature_particle_rare.png" />
+          <PlistParticleFile Name="arena_particle.plist" />
         </Folder>
         <Project Name="BottomMenuLayer.csd" Type="Layer" />
-        <Project Name="Card.csd" Type="Layer" />
+        <Project Name="Card.csd" Type="Node" />
         <Project Name="CardInfoLayer.csd" Type="Layer" />
-        <Project Name="CardSprite.csd" Type="Node" />
         <Project Name="CheatScene.csd" Type="Scene" />
-        <Project Name="Chest.csd" Type="Layer" />
+        <Project Name="Chest.csd" Type="Node" />
         <Project Name="ChestContainerLayer.csd" Type="Layer" />
         <Project Name="ChestInfoLayer.csd" Type="Layer" />
         <Project Name="ChestSprite.csd" Type="Node" />
@@ -183,6 +183,7 @@
         <Project Name="LobbyScene.csd" Type="Scene" />
         <Project Name="LoginScene.csd" Type="Scene" />
         <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="Node.csd" Type="Node" />
         <Project Name="NotificationLayer.csd" Type="Layer" />
         <Project Name="OpenChestScene.csd" Type="Scene" />
         <PlistInfo Name="Plist.csi" Type="Plist" />

@@ -37,7 +37,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 240.576
+              "Y": 284.6816
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -59,8 +59,8 @@
               "X": 1.0,
               "Y": 0.2083
             },
-            "TopMargin": 619.44,
-            "BottomMargin": 140.592,
+            "TopMargin": 733.004,
+            "BottomMargin": 166.3672,
             "Tag": 1490,
             "Children": [
               {
@@ -75,7 +75,7 @@
                 "AnchorPoint": {},
                 "Position": {
                   "X": -236.544,
-                  "Y": -389.3177
+                  "Y": -460.6926
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -99,13 +99,13 @@
                 },
                 "LeftMargin": -236.544,
                 "RightMargin": 236.544,
-                "TopMargin": -370.7206,
-                "BottomMargin": -389.3177,
+                "TopMargin": -438.6862,
+                "BottomMargin": -460.6926,
                 "Tag": 1581,
                 "ActionTag": -1183501209,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0063
+                  "Y": 1136.0076
                 },
                 "Name": "FileNode_2",
                 "ctype": "ProjectNodeObjectData"
@@ -122,7 +122,7 @@
                 "AnchorPoint": {},
                 "Position": {
                   "X": -75.904,
-                  "Y": -389.3177
+                  "Y": -460.6926
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -146,13 +146,13 @@
                 },
                 "LeftMargin": -75.904,
                 "RightMargin": 75.904,
-                "TopMargin": -370.7206,
-                "BottomMargin": -389.3177,
+                "TopMargin": -438.6862,
+                "BottomMargin": -460.6926,
                 "Tag": 1595,
                 "ActionTag": 974841317,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0063
+                  "Y": 1136.0076
                 },
                 "Name": "FileNode_2_0",
                 "ctype": "ProjectNodeObjectData"
@@ -169,7 +169,7 @@
                 "AnchorPoint": {},
                 "Position": {
                   "X": 85.44,
-                  "Y": -389.3177
+                  "Y": -460.6926
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -193,13 +193,13 @@
                 },
                 "LeftMargin": 85.44,
                 "RightMargin": -85.44,
-                "TopMargin": -370.7206,
-                "BottomMargin": -389.3177,
+                "TopMargin": -438.6862,
+                "BottomMargin": -460.6926,
                 "Tag": 1609,
                 "ActionTag": 660601463,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0063
+                  "Y": 1136.0076
                 },
                 "Name": "FileNode_2_0_0",
                 "ctype": "ProjectNodeObjectData"
@@ -216,7 +216,7 @@
                 "AnchorPoint": {},
                 "Position": {
                   "X": 243.264,
-                  "Y": -389.3177
+                  "Y": -460.6926
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -240,13 +240,13 @@
                 },
                 "LeftMargin": 243.264,
                 "RightMargin": -243.264,
-                "TopMargin": -370.7206,
-                "BottomMargin": -389.3177,
+                "TopMargin": -438.6862,
+                "BottomMargin": -460.6926,
                 "Tag": 1623,
                 "ActionTag": -1203191159,
                 "Size": {
                   "X": 640.0,
-                  "Y": 960.0063
+                  "Y": 1136.0076
                 },
                 "Name": "FileNode_2_0_1",
                 "ctype": "ProjectNodeObjectData"
@@ -255,7 +255,7 @@
             "ActionTag": -2110474200,
             "Size": {
               "X": 640.0,
-              "Y": 199.968
+              "Y": 236.6288
             },
             "Name": "Panel_1",
             "ctype": "PanelObjectData"
@@ -263,7 +263,7 @@
         ],
         "Size": {
           "X": 640.0,
-          "Y": 960.0
+          "Y": 1136.0
         },
         "Name": "Layer",
         "ctype": "LayerObjectData"
