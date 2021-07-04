@@ -160,6 +160,7 @@
           <TTF Name="SVN-Supercell Magic.ttf" />
         </Folder>
         <Folder Name="fx">
+          <PlistParticleFile Name="arena_particle.plist" />
           <File Name="card_upgrade_ready.atlas" />
           <File Name="card_upgrade_ready.json" />
           <Image Name="card_upgrade_ready.png" />
@@ -167,7 +168,6 @@
           <Image Name="lobby_card_panel_miniature_particle_epic.png" />
           <Image Name="lobby_card_panel_miniature_particle_legend.png" />
           <Image Name="lobby_card_panel_miniature_particle_rare.png" />
-          <PlistParticleFile Name="arena_particle.plist" />
         </Folder>
         <Project Name="BottomMenuLayer.csd" Type="Layer" />
         <Project Name="Card.csd" Type="Node" />

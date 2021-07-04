@@ -11,6 +11,18 @@
             <Children>
               <AbstractNodeData Name="NormalButton_0" ActionTag="-156443726" Tag="888" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="-1.4400" RightMargin="521.4400" TopMargin="15.9617" BottomMargin="-0.5900" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="88" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="120.0000" Y="141.9643" />
+                <Children>
+                  <AbstractNodeData Name="Image_5" ActionTag="-1252417527" Tag="116" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="13.0020" RightMargin="13.0020" TopMargin="19.9815" BottomMargin="19.9815" LeftEage="31" RightEage="31" TopEage="33" BottomEage="33" Scale9OriginX="31" Scale9OriginY="33" Scale9Width="32" Scale9Height="36" ctype="ImageViewObjectData">
+                    <Size X="93.9960" Y="102.0013" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="60.0000" Y="70.9821" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.7833" Y="0.7185" />
+                    <FileData Type="Normal" Path="assets/lobby_page_icon_shop.png" Plist="" />
+                  </AbstractNodeData>
+                </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="58.5600" Y="70.3921" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -26,6 +38,18 @@
               </AbstractNodeData>
               <AbstractNodeData Name="NormalButton_0_0" ActionTag="1403209658" Tag="889" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="522.9760" RightMargin="-2.9760" TopMargin="15.9460" BottomMargin="-0.6057" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="88" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="120.0000" Y="141.9957" />
+                <Children>
+                  <AbstractNodeData Name="Image_6" ActionTag="-397377084" Tag="117" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="17.5020" RightMargin="17.5020" TopMargin="20.0001" BottomMargin="20.0001" LeftEage="33" RightEage="33" TopEage="32" BottomEage="32" Scale9OriginX="33" Scale9OriginY="32" Scale9Width="19" Scale9Height="38" ctype="ImageViewObjectData">
+                    <Size X="84.9960" Y="101.9955" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="60.0000" Y="70.9979" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.7083" Y="0.7183" />
+                    <FileData Type="Normal" Path="assets/lobby_page_icon_clan.png" Plist="" />
+                  </AbstractNodeData>
+                </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="582.9760" Y="70.3921" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -41,6 +65,18 @@
               </AbstractNodeData>
               <AbstractNodeData Name="NormalButton_0_1" ActionTag="-1575917847" Tag="890" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentHeightEnable="True" PercentHeightEnabled="True" LeftMargin="400.4920" RightMargin="112.1080" TopMargin="15.9617" BottomMargin="-0.5900" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="88" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="127.4000" Y="141.9643" />
+                <Children>
+                  <AbstractNodeData Name="Image_7" ActionTag="1411302405" Tag="118" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="12.1986" RightMargin="12.1986" TopMargin="21.4821" BottomMargin="21.4821" LeftEage="33" RightEage="33" TopEage="32" BottomEage="32" Scale9OriginX="33" Scale9OriginY="32" Scale9Width="37" Scale9Height="35" ctype="ImageViewObjectData">
+                    <Size X="103.0029" Y="99.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="63.7000" Y="70.9821" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.8085" Y="0.6974" />
+                    <FileData Type="Normal" Path="assets/lobby_page_icon_social.png" Plist="" />
+                  </AbstractNodeData>
+                </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="464.1920" Y="70.3921" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -58,7 +94,7 @@
                 <Size X="120.0000" Y="141.9643" />
                 <Children>
                   <AbstractNodeData Name="Image_2" ActionTag="-1733367505" Tag="622" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="8.5020" RightMargin="8.5020" TopMargin="8.2836" BottomMargin="8.2836" LeftEage="33" RightEage="33" TopEage="34" BottomEage="34" Scale9OriginX="33" Scale9OriginY="34" Scale9Width="37" Scale9Height="38" ctype="ImageViewObjectData">
-                    <Size X="102.9960" Y="125.3970" />
+                    <Size X="102.9960" Y="125.3971" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="60.0000" Y="70.9821" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -84,7 +120,7 @@
               <AbstractNodeData Name="cardButton" ActionTag="1561247826" Tag="892" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="114.7840" RightMargin="351.2000" TopMargin="-1.1800" BottomMargin="-1.1800" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="134" Scale9Height="100" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="174.0160" Y="159.6960" />
                 <Children>
-                  <AbstractNodeData Name="Image_1" ActionTag="-1119329634" Tag="621" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="41.8422" RightMargin="41.1809" TopMargin="17.9977" BottomMargin="16.3050" LeftEage="30" RightEage="30" TopEage="34" BottomEage="34" Scale9OriginX="30" Scale9OriginY="34" Scale9Width="31" Scale9Height="38" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_1" ActionTag="-1119329634" Tag="621" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="41.8422" RightMargin="41.1809" TopMargin="17.9978" BottomMargin="16.3050" LeftEage="30" RightEage="30" TopEage="34" BottomEage="34" Scale9OriginX="30" Scale9OriginY="34" Scale9Width="31" Scale9Height="38" ctype="ImageViewObjectData">
                     <Size X="90.9930" Y="125.3933" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="87.3386" Y="79.0016" />
@@ -178,7 +214,7 @@
                 <Size X="124.0320" Y="141.9643" />
                 <Children>
                   <AbstractNodeData Name="Image_4" ActionTag="256930138" Tag="624" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="14.9893" RightMargin="14.9893" TopMargin="8.2836" BottomMargin="8.2836" LeftEage="30" RightEage="30" TopEage="34" BottomEage="34" Scale9OriginX="30" Scale9OriginY="34" Scale9Width="31" Scale9Height="38" ctype="ImageViewObjectData">
-                    <Size X="94.0535" Y="125.3970" />
+                    <Size X="94.0535" Y="125.3971" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="62.0160" Y="70.9821" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -203,6 +239,18 @@
               </AbstractNodeData>
               <AbstractNodeData Name="NormalButton5" ActionTag="1162782199" Tag="108" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="521.8240" RightMargin="-1.8240" TopMargin="15.9460" BottomMargin="-0.6057" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="88" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="120.0000" Y="141.9957" />
+                <Children>
+                  <AbstractNodeData Name="Image_8" ActionTag="736740431" Tag="119" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="17.5020" RightMargin="17.5020" TopMargin="19.9979" BottomMargin="19.9979" LeftEage="28" RightEage="28" TopEage="33" BottomEage="33" Scale9OriginX="28" Scale9OriginY="33" Scale9Width="29" Scale9Height="36" ctype="ImageViewObjectData">
+                    <Size X="84.9960" Y="102.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="60.0000" Y="70.9979" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.7083" Y="0.7183" />
+                    <FileData Type="Normal" Path="assets/lobby_page_icon_clan.png" Plist="" />
+                  </AbstractNodeData>
+                </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="581.8240" Y="70.3921" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -218,6 +266,18 @@
               </AbstractNodeData>
               <AbstractNodeData Name="NormalButton" ActionTag="1160815875" Tag="109" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="-2.4000" RightMargin="522.4000" TopMargin="15.9617" BottomMargin="-0.5900" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="88" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="120.0000" Y="141.9643" />
+                <Children>
+                  <AbstractNodeData Name="Image_9" ActionTag="-286062279" Tag="120" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="13.0020" RightMargin="13.0020" TopMargin="19.9821" BottomMargin="19.9821" LeftEage="31" RightEage="31" TopEage="33" BottomEage="33" Scale9OriginX="31" Scale9OriginY="33" Scale9Width="32" Scale9Height="36" ctype="ImageViewObjectData">
+                    <Size X="93.9960" Y="102.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="60.0000" Y="70.9821" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.7833" Y="0.7185" />
+                    <FileData Type="Normal" Path="assets/lobby_page_icon_shop.png" Plist="" />
+                  </AbstractNodeData>
+                </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="57.6000" Y="70.3921" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -233,6 +293,18 @@
               </AbstractNodeData>
               <AbstractNodeData Name="cheatButton" ActionTag="859599214" Tag="625" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="403.2320" RightMargin="111.3920" TopMargin="15.9460" BottomMargin="-0.6057" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="93" Scale9Height="88" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="125.3760" Y="141.9957" />
+                <Children>
+                  <AbstractNodeData Name="Image_10" ActionTag="1068557327" Tag="121" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="11.1898" RightMargin="11.1898" TopMargin="21.4982" BottomMargin="21.4982" LeftEage="33" RightEage="33" TopEage="32" BottomEage="32" Scale9OriginX="33" Scale9OriginY="32" Scale9Width="37" Scale9Height="35" ctype="ImageViewObjectData">
+                    <Size X="102.9964" Y="98.9994" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="62.6880" Y="70.9979" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.8215" Y="0.6972" />
+                    <FileData Type="Normal" Path="assets/lobby_page_icon_social.png" Plist="" />
+                  </AbstractNodeData>
+                </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="465.9200" Y="70.3921" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
