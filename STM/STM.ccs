@@ -154,6 +154,7 @@
           <Image Name="stat_icon_time.png" />
           <Image Name="Trap.png" />
           <Image Name="ui_icon_arrow.png" />
+          <Image Name="common_panel_title.png" />
         </Folder>
         <Folder Name="fonts">
           <TTF Name="SVN-Avo bold.ttf" />

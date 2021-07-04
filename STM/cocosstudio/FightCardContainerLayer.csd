@@ -89,13 +89,13 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Card.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_52" ActionTag="626731952" Tag="449" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="72.1920" RightMargin="60.8000" TopMargin="25.0660" BottomMargin="572.4664" IsCustomSize="True" FontSize="18" LabelText="Bộ Bài Chiến Đấu" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Text_52" ActionTag="626731952" Tag="449" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="72.1920" RightMargin="60.8000" TopMargin="32.0921" BottomMargin="565.4403" IsCustomSize="True" FontSize="18" LabelText="Bộ Bài Chiến Đấu" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="507.0080" Y="35.4468" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="325.6960" Y="590.1898" />
+                <Position X="325.6960" Y="583.1637" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="239" G="219" B="95" />
-                <PrePosition X="0.5089" Y="0.9324" />
+                <PrePosition X="0.5089" Y="0.9213" />
                 <PreSize X="0.7922" Y="0.0560" />
                 <FontResource Type="Normal" Path="fonts/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />

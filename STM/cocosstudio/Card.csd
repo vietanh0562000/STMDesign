@@ -104,33 +104,33 @@
                 <PreSize X="0.8190" Y="0.1087" />
                 <FileData Type="Normal" Path="assets/lobby_card_panel_box.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ProgressBar" ActionTag="-1701691165" Tag="11177" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="4.2416" RightMargin="4.2416" TopMargin="185.0953" BottomMargin="-26.9363" Scale9Enable="True" LeftEage="33" RightEage="33" TopEage="8" BottomEage="8" Scale9OriginX="33" Scale9OriginY="8" Scale9Width="60" Scale9Height="14" ctype="ImageViewObjectData">
-                <Size X="130.5867" Y="27.8010" />
+              <AbstractNodeData Name="ProgressBar" ActionTag="-1701691165" Tag="11177" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="5.6323" RightMargin="5.6323" TopMargin="185.0953" BottomMargin="-26.9363" Scale9Enable="True" LeftEage="33" RightEage="33" TopEage="8" BottomEage="8" Scale9OriginX="33" Scale9OriginY="8" Scale9Width="60" Scale9Height="14" ctype="ImageViewObjectData">
+                <Size X="127.8053" Y="27.8010" />
                 <Children>
-                  <AbstractNodeData Name="ProgressedBar" ActionTag="-295052950" Tag="11178" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="3.9176" RightMargin="26.5874" TopMargin="3.4710" BottomMargin="3.4765" LeftEage="39" RightEage="39" TopEage="7" BottomEage="7" Scale9OriginX="39" Scale9OriginY="7" Scale9Width="42" Scale9Height="10" ctype="ImageViewObjectData">
-                    <Size X="100.0817" Y="20.8535" />
+                  <AbstractNodeData Name="ProgressedBar" ActionTag="-295052950" Tag="11178" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="3.8342" RightMargin="26.0212" TopMargin="3.4710" BottomMargin="3.4765" LeftEage="39" RightEage="39" TopEage="7" BottomEage="7" Scale9OriginX="39" Scale9OriginY="7" Scale9Width="42" Scale9Height="10" ctype="ImageViewObjectData">
+                    <Size X="97.9500" Y="20.8535" />
                     <AnchorPoint ScaleY="0.5000" />
-                    <Position X="3.9176" Y="13.9033" />
+                    <Position X="3.8342" Y="13.9033" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.0300" Y="0.5001" />
                     <PreSize X="0.7664" Y="0.7501" />
                     <FileData Type="Normal" Path="assets/lobby_card_progress.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Process_Glow" ActionTag="997243074" Tag="11179" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="3.9176" RightMargin="26.5874" TopMargin="3.4710" BottomMargin="3.4765" LeftEage="29" RightEage="29" TopEage="7" BottomEage="7" Scale9OriginX="29" Scale9OriginY="7" Scale9Width="31" Scale9Height="10" ctype="ImageViewObjectData">
-                    <Size X="100.0817" Y="20.8535" />
+                  <AbstractNodeData Name="Process_Glow" ActionTag="997243074" Tag="11179" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="3.8342" RightMargin="26.0212" TopMargin="3.4710" BottomMargin="3.4765" LeftEage="29" RightEage="29" TopEage="7" BottomEage="7" Scale9OriginX="29" Scale9OriginY="7" Scale9Width="31" Scale9Height="10" ctype="ImageViewObjectData">
+                    <Size X="97.9500" Y="20.8535" />
                     <AnchorPoint ScaleY="0.5000" />
-                    <Position X="3.9176" Y="13.9033" />
+                    <Position X="3.8342" Y="13.9033" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.0300" Y="0.5001" />
                     <PreSize X="0.7664" Y="0.7501" />
                     <FileData Type="Normal" Path="assets/lobby_card_progress_glow.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_15" ActionTag="-66630508" Tag="11180" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="34.7818" RightMargin="34.7817" TopMargin="2.5230" BottomMargin="2.5285" IsCustomSize="True" FontSize="12" LabelText="17/20" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="61.0232" Y="22.7496" />
+                  <AbstractNodeData Name="Text_15" ActionTag="-66630508" Tag="11180" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="34.0409" RightMargin="34.0410" TopMargin="2.5230" BottomMargin="2.5285" IsCustomSize="True" FontSize="12" LabelText="17/20" HorizontalAlignmentType="HT_Center" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="59.7234" Y="22.7496" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="65.2934" Y="13.9033" />
+                    <Position X="63.9027" Y="13.9033" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5001" />
@@ -145,7 +145,7 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="-0.0701" />
-                <PreSize X="0.9390" Y="0.1495" />
+                <PreSize X="0.9190" Y="0.1495" />
                 <FileData Type="Normal" Path="assets/lobby_card_progress_background_deck.png" Plist="" />
               </AbstractNodeData>
             </Children>

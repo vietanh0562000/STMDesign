@@ -4,15 +4,15 @@
     <Content>
       <Animation Duration="0" Speed="1.0000" />
       <ObjectData Name="Layer" Tag="75" ctype="GameLayerObjectData">
-        <Size X="640.0000" Y="960.0000" />
+        <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="lobby_curreny_background" ActionTag="1078006054" Tag="132" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" TopMargin="1.4081" BottomMargin="884.5919" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="292" Scale9Height="29" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="lobby_curreny_background" ActionTag="1078006054" Tag="132" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="-0.0001" RightMargin="0.0001" TopMargin="-0.1101" BottomMargin="1062.1101" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="292" Scale9Height="29" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="74.0000" />
             <Children>
               <AbstractNodeData Name="goldLabel" ActionTag="-124005717" Tag="131" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="140.1760" RightMargin="359.8240" TopMargin="9.6000" BottomMargin="24.4000" ctype="SpriteObjectData">
                 <Size X="140.0000" Y="40.0000" />
                 <Children>
-                  <AbstractNodeData Name="Text_9" ActionTag="-347455582" Tag="135" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.9980" RightMargin="8.0020" TopMargin="1.8104" BottomMargin="5.1896" FontSize="24" LabelText="93200" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="Text_9" ActionTag="-347455582" Tag="135" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.9980" RightMargin="8.0020" TopMargin="1.8104" BottomMargin="5.1896" FontSize="24" LabelText="93200" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="106.0000" Y="33.0000" />
                     <AnchorPoint ScaleY="0.4488" />
                     <Position X="25.9980" Y="20.0000" />
@@ -63,7 +63,7 @@
               <AbstractNodeData Name="GemLabel" ActionTag="1242874963" Tag="132" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="390.6720" RightMargin="109.3280" TopMargin="9.6000" BottomMargin="24.4000" ctype="SpriteObjectData">
                 <Size X="140.0000" Y="40.0000" />
                 <Children>
-                  <AbstractNodeData Name="Text_9_0" ActionTag="-1303953844" Tag="136" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.0040" RightMargin="8.9960" TopMargin="1.8104" BottomMargin="5.1896" FontSize="24" LabelText="93200" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="Text_9_0" ActionTag="-1303953844" Tag="136" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="25.0040" RightMargin="8.9960" TopMargin="1.8104" BottomMargin="5.1896" FontSize="24" LabelText="93200" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="106.0000" Y="33.0000" />
                     <AnchorPoint ScaleY="0.4488" />
                     <Position X="25.0040" Y="20.0000" />
@@ -113,11 +113,11 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="320.0000" Y="921.5919" />
+            <Position X="319.9999" Y="1099.1101" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9600" />
-            <PreSize X="1.0000" Y="0.0771" />
+            <PrePosition X="0.5000" Y="0.9675" />
+            <PreSize X="1.0000" Y="0.0651" />
             <FileData Type="Normal" Path="assets/lobby_currency_background.png" Plist="" />
           </AbstractNodeData>
         </Children>

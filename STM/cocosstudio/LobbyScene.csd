@@ -16,13 +16,13 @@
             <PreSize X="1.0000" Y="1.0000" />
             <FileData Type="Normal" Path="assets/lobby_background.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="glow" ActionTag="964804945" Tag="254" IconVisible="False" PositionPercentXEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="125.6148" RightMargin="120.4012" TopMargin="295.2283" BottomMargin="374.5573" LeftEage="130" RightEage="130" TopEage="130" BottomEage="130" Scale9OriginX="130" Scale9OriginY="130" Scale9Width="134" Scale9Height="134" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="glow" ActionTag="964804945" Tag="254" IconVisible="False" PositionPercentXEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="125.6320" RightMargin="120.3840" TopMargin="295.2281" BottomMargin="374.5574" LeftEage="130" RightEage="130" TopEage="130" BottomEage="130" Scale9OriginX="130" Scale9OriginY="130" Scale9Width="134" Scale9Height="134" ctype="ImageViewObjectData">
             <Size X="393.9840" Y="466.2144" />
             <Children>
-              <AbstractNodeData Name="Particle_1" ActionTag="-1831860992" Tag="13068" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="189.1896" RightMargin="204.7944" TopMargin="151.6552" BottomMargin="314.5592" ctype="ParticleObjectData">
+              <AbstractNodeData Name="Particle_1" ActionTag="-1831860992" Tag="13068" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="189.1911" RightMargin="204.7929" TopMargin="151.6595" BottomMargin="314.5549" ctype="ParticleObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="189.1896" Y="314.5592" />
+                <Position X="189.1911" Y="314.5549" />
                 <Scale ScaleX="2.2679" ScaleY="2.5042" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4802" Y="0.6747" />
@@ -32,20 +32,20 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="322.6068" Y="607.6646" />
+            <Position X="322.6240" Y="607.6646" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5041" Y="0.5349" />
             <PreSize X="0.6156" Y="0.4104" />
             <FileData Type="Normal" Path="assets/lobby_card_panel_miniature_glow_rare.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="UserInfo" ActionTag="-442114817" Tag="593" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="3.9998" RightMargin="4.0002" TopMargin="92.7441" BottomMargin="907.2559" Scale9Enable="True" LeftEage="208" RightEage="208" TopEage="40" BottomEage="40" Scale9OriginX="208" Scale9OriginY="40" Scale9Width="216" Scale9Height="44" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="UserInfo" ActionTag="-442114817" Tag="593" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="4.0000" RightMargin="4.0000" TopMargin="76.7441" BottomMargin="923.2558" Scale9Enable="True" LeftEage="208" RightEage="208" TopEage="40" BottomEage="40" Scale9OriginX="208" Scale9OriginY="40" Scale9Width="216" Scale9Height="44" ctype="ImageViewObjectData">
             <Size X="632.0000" Y="136.0000" />
             <Children>
-              <AbstractNodeData Name="Image_232" ActionTag="117773788" Tag="594" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="14.3464" RightMargin="537.6424" TopMargin="22.3864" BottomMargin="34.8524" LeftEage="44" RightEage="44" TopEage="48" BottomEage="48" Scale9OriginX="44" Scale9OriginY="48" Scale9Width="47" Scale9Height="50" ctype="ImageViewObjectData">
-                <Size X="80.0112" Y="78.7612" />
+              <AbstractNodeData Name="Image_232" ActionTag="117773788" Tag="594" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="14.3464" RightMargin="537.6424" TopMargin="22.3924" BottomMargin="34.8500" LeftEage="44" RightEage="44" TopEage="48" BottomEage="48" Scale9OriginX="44" Scale9OriginY="48" Scale9Width="47" Scale9Height="50" ctype="ImageViewObjectData">
+                <Size X="80.0112" Y="78.7576" />
                 <Children>
-                  <AbstractNodeData Name="Image_233" ActionTag="-767247133" Tag="595" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="9.0013" RightMargin="9.0013" TopMargin="7.8762" BottomMargin="13.4367" LeftEage="12" RightEage="12" TopEage="12" BottomEage="12" Scale9OriginX="12" Scale9OriginY="12" Scale9Width="13" Scale9Height="13" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_233" ActionTag="-767247133" Tag="595" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="9.0013" RightMargin="9.0013" TopMargin="7.8725" BottomMargin="13.4367" LeftEage="12" RightEage="12" TopEage="12" BottomEage="12" Scale9OriginX="12" Scale9OriginY="12" Scale9Width="13" Scale9Height="13" ctype="ImageViewObjectData">
                     <Size X="62.0087" Y="57.4484" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="40.0056" Y="42.1609" />
@@ -57,17 +57,17 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="54.3520" Y="74.2330" />
+                <Position X="54.3520" Y="74.2288" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.0860" Y="0.5458" />
                 <PreSize X="0.1266" Y="0.5791" />
                 <FileData Type="Normal" Path="assets/common_avatar_border.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Username" ActionTag="-38397753" Tag="596" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="124.5096" RightMargin="427.4904" TopMargin="30.1824" BottomMargin="71.8176" FontSize="24" LabelText="VanhD" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Username" ActionTag="-38397753" Tag="596" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="124.5096" RightMargin="427.4904" TopMargin="30.1784" BottomMargin="71.8216" FontSize="24" LabelText="VanhD" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="80.0000" Y="34.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="164.5096" Y="88.8176" />
+                <Position X="164.5096" Y="88.8216" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2603" Y="0.6531" />
@@ -76,30 +76,30 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_235" ActionTag="1971605801" Tag="598" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="415.0028" RightMargin="77.0092" TopMargin="42.8323" BottomMargin="56.1029" LeftEage="46" RightEage="46" TopEage="13" BottomEage="13" Scale9OriginX="46" Scale9OriginY="13" Scale9Width="48" Scale9Height="14" ctype="ImageViewObjectData">
-                <Size X="139.9880" Y="37.0648" />
+              <AbstractNodeData Name="Image_235" ActionTag="1971605801" Tag="598" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="415.0028" RightMargin="77.0092" TopMargin="42.8332" BottomMargin="56.1068" LeftEage="46" RightEage="46" TopEage="13" BottomEage="13" Scale9OriginX="46" Scale9OriginY="13" Scale9Width="48" Scale9Height="14" ctype="ImageViewObjectData">
+                <Size X="139.9880" Y="37.0600" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="484.9968" Y="74.6353" />
+                <Position X="484.9968" Y="74.6368" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.7674" Y="0.5488" />
                 <PreSize X="0.2215" Y="0.2725" />
                 <FileData Type="Normal" Path="assets/lobby_box.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_234" ActionTag="401407561" Tag="597" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="387.7636" RightMargin="184.2596" TopMargin="36.1607" BottomMargin="43.3170" LeftEage="35" RightEage="35" TopEage="34" BottomEage="34" Scale9OriginX="35" Scale9OriginY="34" Scale9Width="38" Scale9Height="37" ctype="ImageViewObjectData">
-                <Size X="59.9768" Y="56.5224" />
+              <AbstractNodeData Name="Image_234" ActionTag="401407561" Tag="597" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="387.7636" RightMargin="184.2596" TopMargin="36.1624" BottomMargin="43.3160" LeftEage="35" RightEage="35" TopEage="34" BottomEage="34" Scale9OriginX="35" Scale9OriginY="34" Scale9Width="38" Scale9Height="37" ctype="ImageViewObjectData">
+                <Size X="59.9768" Y="56.5216" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="417.7520" Y="71.5781" />
+                <Position X="417.7520" Y="71.5768" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.6610" Y="0.5263" />
                 <PreSize X="0.0949" Y="0.4156" />
                 <FileData Type="Normal" Path="assets/common_icon_trophy.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="TrophyText" ActionTag="-1438921657" Tag="599" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="451.0900" RightMargin="95.9060" TopMargin="46.5790" BottomMargin="64.4008" IsCustomSize="True" FontSize="20" LabelText="" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="85.0040" Y="25.0202" />
+              <AbstractNodeData Name="TrophyText" ActionTag="-1438921657" Tag="599" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="451.0900" RightMargin="95.9060" TopMargin="46.5800" BottomMargin="64.3960" IsCustomSize="True" FontSize="20" LabelText="" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="85.0040" Y="25.0240" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="493.5920" Y="76.9109" />
+                <Position X="493.5920" Y="76.9080" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.7810" Y="0.5655" />
@@ -110,42 +110,41 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="319.9998" Y="975.2559" />
+            <Position X="320.0000" Y="991.2558" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.8585" />
+            <PrePosition X="0.5000" Y="0.8726" />
             <PreSize X="0.9875" Y="0.1197" />
             <FileData Type="Normal" Path="assets/lobby_home_playaer.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Area" ActionTag="532170992" Tag="600" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="158.3040" RightMargin="158.3040" TopMargin="275.0809" BottomMargin="512.9592" LeftEage="199" RightEage="199" TopEage="208" BottomEage="208" Scale9OriginX="199" Scale9OriginY="208" Scale9Width="207" Scale9Height="216" ctype="ImageViewObjectData">
-            <Size X="323.3920" Y="347.9600" />
+          <AbstractNodeData Name="Area" ActionTag="-1440907763" Tag="3588" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="319.2320" RightMargin="320.7680" TopMargin="512.2224" BottomMargin="623.7776" ctype="SingleNodeObjectData">
+            <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="Text_17" ActionTag="817014047" Tag="389" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="53.6960" RightMargin="53.6960" TopMargin="294.4922" BottomMargin="18.4678" FontSize="24" LabelText="Rừng Thiêng" OutlineEnabled="True" ShadowOffsetX="12.0000" ShadowOffsetY="12.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="nameArea" ActionTag="817014047" Tag="389" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="-108.0000" RightMargin="-108.0000" TopMargin="65.7362" BottomMargin="-100.7362" FontSize="24" LabelText="Rừng Thiêng" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="12.0000" ShadowOffsetY="12.0000" ctype="TextObjectData">
                 <Size X="216.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="161.6960" Y="35.9678" />
+                <Position Y="-83.2362" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" Y="0.1034" />
-                <PreSize X="0.6679" Y="0.1006" />
+                <PrePosition />
+                <PreSize X="0.0000" Y="0.0000" />
                 <FontResource Type="Normal" Path="fonts/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="173" G="216" B="230" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
             </Children>
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="320.0000" Y="686.9391" />
+            <AnchorPoint />
+            <Position X="319.2320" Y="623.7776" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.6047" />
-            <PreSize X="0.5053" Y="0.3063" />
-            <FileData Type="Normal" Path="assets/common_arena_forest.png" Plist="" />
+            <PrePosition X="0.4988" Y="0.5491" />
+            <PreSize X="0.0000" Y="0.0000" />
           </AbstractNodeData>
           <AbstractNodeData Name="FightButton" ActionTag="1770839709" Tag="53" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="111.4880" RightMargin="111.4880" TopMargin="585.8900" BottomMargin="335.9700" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="387" Scale9Height="159" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="417.0240" Y="214.1400" />
             <Children>
-              <AbstractNodeData Name="Image_237" ActionTag="762812765" Tag="601" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="71.2694" RightMargin="69.7681" TopMargin="39.2115" BottomMargin="106.9225" LeftEage="76" RightEage="76" TopEage="17" BottomEage="17" Scale9OriginX="76" Scale9OriginY="17" Scale9Width="80" Scale9Height="20" ctype="ImageViewObjectData">
-                <Size X="275.9865" Y="68.0061" />
+              <AbstractNodeData Name="Image_237" ActionTag="762812765" Tag="601" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="71.2694" RightMargin="69.7681" TopMargin="39.2090" BottomMargin="106.9201" LeftEage="76" RightEage="76" TopEage="17" BottomEage="17" Scale9OriginX="76" Scale9OriginY="17" Scale9Width="80" Scale9Height="20" ctype="ImageViewObjectData">
+                <Size X="275.9865" Y="68.0109" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="209.2626" Y="140.9255" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
