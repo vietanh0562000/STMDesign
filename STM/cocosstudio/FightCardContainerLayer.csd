@@ -89,7 +89,7 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Card.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_52" ActionTag="626731952" Tag="449" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="72.1920" RightMargin="60.8000" TopMargin="32.0921" BottomMargin="565.4403" IsCustomSize="True" FontSize="18" LabelText="Bộ Bài Chiến Đấu" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Text_52" ActionTag="626731952" Tag="449" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="72.1920" RightMargin="60.8000" TopMargin="32.0921" BottomMargin="565.4403" IsCustomSize="True" FontSize="18" LabelText="Bộ Bài Chiến Đấu" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ShadowEnabled="True" ctype="TextObjectData">
                 <Size X="507.0080" Y="35.4468" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="325.6960" Y="583.1637" />
@@ -100,6 +100,78 @@
                 <FontResource Type="Normal" Path="fonts/SVN-Supercell Magic.ttf" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="deck2" ActionTag="-2077496560" Tag="1108" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="526.5280" RightMargin="64.4480" TopMargin="11.4788" BottomMargin="568.5004" LeftEage="16" RightEage="16" TopEage="17" BottomEage="17" Scale9OriginX="16" Scale9OriginY="17" Scale9Width="17" Scale9Height="19" ctype="ImageViewObjectData">
+                <Size X="49.0240" Y="53.0000" />
+                <Children>
+                  <AbstractNodeData Name="numberDeck" ActionTag="2064740237" Tag="1112" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="15.5120" RightMargin="15.5120" TopMargin="10.4931" BottomMargin="15.5069" FontSize="20" LabelText="2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="18.0000" Y="27.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="24.5120" Y="29.0069" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.5473" />
+                    <PreSize X="0.3672" Y="0.5094" />
+                    <FontResource Type="Normal" Path="fonts/SVN-Supercell Magic.ttf" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="551.0400" Y="595.0004" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8610" Y="0.9400" />
+                <PreSize X="0.0766" Y="0.0837" />
+                <FileData Type="Normal" Path="assets/lobby_card_btn_deck.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="selectDeck" ActionTag="-1959180541" Tag="1107" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="466.6880" RightMargin="124.2880" TopMargin="13.3242" BottomMargin="557.6863" LeftEage="16" RightEage="16" TopEage="20" BottomEage="20" Scale9OriginX="16" Scale9OriginY="20" Scale9Width="17" Scale9Height="22" ctype="ImageViewObjectData">
+                <Size X="49.0240" Y="61.9687" />
+                <Children>
+                  <AbstractNodeData Name="numberDeck" ActionTag="-109941314" Tag="1110" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="18.5120" RightMargin="18.5120" TopMargin="9.4284" BottomMargin="25.5403" FontSize="20" LabelText="1" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="12.0000" Y="27.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="24.5120" Y="39.0403" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.6300" />
+                    <PreSize X="0.2448" Y="0.4357" />
+                    <FontResource Type="Normal" Path="fonts/SVN-Supercell Magic.ttf" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="491.2000" Y="588.6707" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7675" Y="0.9300" />
+                <PreSize X="0.0766" Y="0.0979" />
+                <FileData Type="Normal" Path="assets/lobby_card_btn_deck_selecting.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="deck2_0" ActionTag="-1691088704" Tag="1109" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="581.5679" RightMargin="9.4080" TopMargin="11.4886" BottomMargin="568.5103" LeftEage="16" RightEage="16" TopEage="17" BottomEage="17" Scale9OriginX="16" Scale9OriginY="17" Scale9Width="17" Scale9Height="19" ctype="ImageViewObjectData">
+                <Size X="49.0240" Y="52.9804" />
+                <Children>
+                  <AbstractNodeData Name="numberDeck" ActionTag="1511994195" Tag="1111" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="15.0120" RightMargin="15.0120" TopMargin="9.1008" BottomMargin="-10.1205" FontSize="20" LabelText="3&#xA;" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="19.0000" Y="54.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="24.5120" Y="16.8795" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="0.3186" />
+                    <PreSize X="0.3876" Y="1.0192" />
+                    <FontResource Type="Normal" Path="fonts/SVN-Supercell Magic.ttf" Plist="" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="606.0800" Y="595.0004" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9470" Y="0.9400" />
+                <PreSize X="0.0766" Y="0.0837" />
+                <FileData Type="Normal" Path="assets/lobby_card_btn_deck.png" Plist="" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint />

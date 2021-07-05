@@ -6,7 +6,7 @@
       <ObjectData Name="Layer" Tag="75" ctype="GameLayerObjectData">
         <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="lobby_curreny_background" ActionTag="1078006054" Tag="132" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="-0.0001" RightMargin="0.0001" TopMargin="-0.1101" BottomMargin="1062.1101" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="292" Scale9Height="29" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="lobby_curreny_background" ActionTag="1078006054" Tag="132" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="0.0006" RightMargin="-0.0006" TopMargin="-0.0002" BottomMargin="1062.0002" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="292" Scale9Height="29" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="74.0000" />
             <Children>
               <AbstractNodeData Name="goldLabel" ActionTag="-124005717" Tag="131" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="140.1760" RightMargin="359.8240" TopMargin="9.6000" BottomMargin="24.4000" ctype="SpriteObjectData">
@@ -16,7 +16,7 @@
                     <Size X="106.0000" Y="33.0000" />
                     <AnchorPoint ScaleY="0.4488" />
                     <Position X="25.9980" Y="20.0000" />
-                    <Scale ScaleX="0.7870" ScaleY="0.6836" />
+                    <Scale ScaleX="0.7870" ScaleY="0.7870" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.1857" Y="0.5000" />
                     <PreSize X="0.7571" Y="0.8250" />
@@ -28,7 +28,7 @@
                     <Size X="88.0000" Y="108.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-9.8000" Y="20.0800" />
-                    <Scale ScaleX="0.4999" ScaleY="0.5714" />
+                    <Scale ScaleX="0.5362" ScaleY="0.5362" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="-0.0700" Y="0.5020" />
                     <PreSize X="0.6286" Y="2.7000" />
@@ -53,7 +53,7 @@
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="210.1760" Y="44.4000" />
-                <Scale ScaleX="1.1563" ScaleY="0.8827" />
+                <Scale ScaleX="0.8827" ScaleY="0.8827" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.3284" Y="0.6000" />
                 <PreSize X="0.2188" Y="0.5405" />
@@ -67,7 +67,7 @@
                     <Size X="106.0000" Y="33.0000" />
                     <AnchorPoint ScaleY="0.4488" />
                     <Position X="25.0040" Y="20.0000" />
-                    <Scale ScaleX="0.7870" ScaleY="0.6836" />
+                    <Scale ScaleX="0.7870" ScaleY="0.7870" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.1786" Y="0.5000" />
                     <PreSize X="0.7571" Y="0.8250" />
@@ -79,7 +79,7 @@
                     <Size X="91.0000" Y="107.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="-4.2000" Y="20.0000" />
-                    <Scale ScaleX="0.4692" ScaleY="0.5362" />
+                    <Scale ScaleX="0.5362" ScaleY="0.5362" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="-0.0300" Y="0.5000" />
                     <PreSize X="0.6500" Y="2.6750" />
@@ -104,7 +104,7 @@
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="460.6720" Y="44.4000" />
-                <Scale ScaleX="1.1500" ScaleY="0.8827" />
+                <Scale ScaleX="0.8827" ScaleY="0.8827" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.7198" Y="0.6000" />
                 <PreSize X="0.2188" Y="0.5405" />
@@ -112,11 +112,11 @@
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="319.9999" Y="1099.1101" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+            <Position X="320.0006" Y="1136.0002" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9675" />
+            <PrePosition X="0.5000" Y="1.0000" />
             <PreSize X="1.0000" Y="0.0651" />
             <FileData Type="Normal" Path="assets/lobby_currency_background.png" Plist="" />
           </AbstractNodeData>

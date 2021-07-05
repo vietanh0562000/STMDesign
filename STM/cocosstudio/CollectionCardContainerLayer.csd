@@ -169,40 +169,40 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Card.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="FileNode_1_2_0" ActionTag="1853972334" Tag="391" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="99.0160" RightMargin="540.9840" TopMargin="992.7141" BottomMargin="171.8260" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="FileNode_1_2_0" ActionTag="1853972334" Tag="391" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="99.0080" RightMargin="540.9920" TopMargin="992.7704" BottomMargin="171.7697" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="99.0160" Y="171.8260" />
+                <Position X="99.0080" Y="171.7697" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1547" Y="0.1475" />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Card.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="FileNode_2_2_0" ActionTag="-1920265280" Tag="406" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="250.8243" RightMargin="389.1757" TopMargin="992.7141" BottomMargin="171.8260" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="FileNode_2_2_0" ActionTag="-1920265280" Tag="406" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="250.8160" RightMargin="389.1840" TopMargin="992.7704" BottomMargin="171.7697" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="250.8243" Y="171.8260" />
+                <Position X="250.8160" Y="171.7697" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.3919" Y="0.1475" />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Card.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="FileNode_3_3_0" ActionTag="-1524149212" Tag="421" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="405.1274" RightMargin="234.8726" TopMargin="992.7141" BottomMargin="171.8260" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="FileNode_3_3_0" ActionTag="-1524149212" Tag="421" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="405.1200" RightMargin="234.8800" TopMargin="992.7704" BottomMargin="171.7697" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="405.1274" Y="171.8260" />
+                <Position X="405.1200" Y="171.7697" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.6330" Y="0.1475" />
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="Card.csd" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="FileNode_3_0_2_0" ActionTag="950517946" Tag="436" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="555.9124" RightMargin="84.0876" TopMargin="992.7141" BottomMargin="171.8260" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+              <AbstractNodeData Name="FileNode_3_0_2_0" ActionTag="950517946" Tag="436" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="555.9040" RightMargin="84.0960" TopMargin="992.7704" BottomMargin="171.7697" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="555.9124" Y="171.8260" />
+                <Position X="555.9040" Y="171.7697" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.8686" Y="0.1475" />
@@ -212,7 +212,7 @@
               <AbstractNodeData Name="banner" ActionTag="-1284706896" Tag="2510" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="53.1840" RightMargin="65.9840" TopMargin="-96.4473" BottomMargin="1167.7773" LeftEage="199" RightEage="199" TopEage="29" BottomEage="29" Scale9OriginX="199" Scale9OriginY="29" Scale9Width="206" Scale9Height="30" ctype="ImageViewObjectData">
                 <Size X="520.8320" Y="93.2100" />
                 <Children>
-                  <AbstractNodeData Name="CollectionCardLabel" ActionTag="1907116491" Tag="143" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="29.7395" RightMargin="228.0723" TopMargin="19.7605" BottomMargin="39.5956" IsCustomSize="True" FontSize="16" LabelText="BỘ SƯU TẬP THẺ BÀI" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="CollectionCardLabel" ActionTag="1907116491" Tag="143" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="29.7395" RightMargin="228.0723" TopMargin="19.7605" BottomMargin="39.5956" IsCustomSize="True" FontSize="16" LabelText="BỘ SƯU TẬP THẺ BÀI" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="263.0201" Y="33.8539" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="161.2496" Y="56.5225" />
@@ -221,8 +221,8 @@
                     <PrePosition X="0.3096" Y="0.6064" />
                     <PreSize X="0.5050" Y="0.3632" />
                     <FontResource Type="Normal" Path="fonts/SVN-Supercell Magic.ttf" Plist="" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
+                    <OutlineColor A="255" R="191" G="191" B="191" />
+                    <ShadowColor A="255" R="107" G="102" B="102" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />

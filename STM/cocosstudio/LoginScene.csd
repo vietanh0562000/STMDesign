@@ -73,10 +73,10 @@
                 <PreSize X="0.8219" Y="0.0581" />
                 <FileData Type="Normal" Path="assets/common_panel_title.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Particle_1" ActionTag="-2047150562" Tag="2574" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="322.3680" RightMargin="317.6320" TopMargin="307.5153" BottomMargin="828.4847" ctype="ParticleObjectData">
+              <AbstractNodeData Name="Particle_1" ActionTag="-2047150562" Tag="2574" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="322.3680" RightMargin="317.6320" TopMargin="307.5152" BottomMargin="828.4848" ctype="ParticleObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="322.3680" Y="828.4847" />
+                <Position X="322.3680" Y="828.4848" />
                 <Scale ScaleX="2.5364" ScaleY="2.6953" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5037" Y="0.7293" />
@@ -84,10 +84,10 @@
                 <FileData Type="Normal" Path="fx/arena_particle.plist" Plist="" />
                 <BlendFunc Src="770" Dst="1" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Area" ActionTag="243204495" Tag="3589" IconVisible="True" LeftMargin="316.5538" RightMargin="323.4462" TopMargin="479.0552" BottomMargin="656.9448" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="Area" ActionTag="243204495" Tag="3589" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="314.5985" RightMargin="325.4015" TopMargin="388.9218" BottomMargin="747.0782" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <Children>
-                  <AbstractNodeData Name="nameArea" ActionTag="-570863665" Tag="397" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="-213.5000" RightMargin="-213.5000" TopMargin="68.5000" BottomMargin="-135.5000" FontSize="48" LabelText="Rừng Thiêng" OutlineEnabled="True" ShadowOffsetX="12.0000" ShadowOffsetY="12.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="nameArea" ActionTag="-570863665" Tag="397" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="-213.5000" RightMargin="-213.5000" TopMargin="68.5000" BottomMargin="-135.5000" FontSize="48" LabelText="Rừng Thiêng" OutlineEnabled="True" ShadowOffsetX="3.0000" ShadowOffsetY="-3.0000" ShadowEnabled="True" ctype="TextObjectData">
                     <Size X="427.0000" Y="67.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position Y="-102.0000" />
@@ -101,10 +101,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="316.5538" Y="656.9448" />
+                <Position X="314.5985" Y="747.0782" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4946" Y="0.5783" />
+                <PrePosition X="0.4916" Y="0.6576" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
             </Children>

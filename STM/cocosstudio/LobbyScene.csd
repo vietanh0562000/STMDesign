@@ -16,7 +16,7 @@
             <PreSize X="1.0000" Y="1.0000" />
             <FileData Type="Normal" Path="assets/lobby_background.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="glow" ActionTag="964804945" Tag="254" IconVisible="False" PositionPercentXEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="125.6320" RightMargin="120.3840" TopMargin="295.2281" BottomMargin="374.5574" LeftEage="130" RightEage="130" TopEage="130" BottomEage="130" Scale9OriginX="130" Scale9OriginY="130" Scale9Width="134" Scale9Height="134" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="glow" ActionTag="964804945" Tag="254" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="125.6320" RightMargin="120.3840" TopMargin="295.2463" BottomMargin="374.5392" LeftEage="130" RightEage="130" TopEage="130" BottomEage="130" Scale9OriginX="130" Scale9OriginY="130" Scale9Width="134" Scale9Height="134" ctype="ImageViewObjectData">
             <Size X="393.9840" Y="466.2144" />
             <Children>
               <AbstractNodeData Name="Particle_1" ActionTag="-1831860992" Tag="13068" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="189.1911" RightMargin="204.7929" TopMargin="151.6595" BottomMargin="314.5549" ctype="ParticleObjectData">
@@ -32,23 +32,23 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="322.6240" Y="607.6646" />
+            <Position X="322.6240" Y="607.6464" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5041" Y="0.5349" />
             <PreSize X="0.6156" Y="0.4104" />
             <FileData Type="Normal" Path="assets/lobby_card_panel_miniature_glow_rare.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="UserInfo" ActionTag="-442114817" Tag="593" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="4.0000" RightMargin="4.0000" TopMargin="76.7441" BottomMargin="923.2558" Scale9Enable="True" LeftEage="208" RightEage="208" TopEage="40" BottomEage="40" Scale9OriginX="208" Scale9OriginY="40" Scale9Width="216" Scale9Height="44" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="UserInfo" ActionTag="-442114817" Tag="593" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="4.0000" RightMargin="4.0000" TopMargin="76.7263" BottomMargin="923.2736" Scale9Enable="True" LeftEage="208" RightEage="208" TopEage="40" BottomEage="40" Scale9OriginX="208" Scale9OriginY="40" Scale9Width="216" Scale9Height="44" ctype="ImageViewObjectData">
             <Size X="632.0000" Y="136.0000" />
             <Children>
               <AbstractNodeData Name="Image_232" ActionTag="117773788" Tag="594" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="14.3464" RightMargin="537.6424" TopMargin="22.3924" BottomMargin="34.8500" LeftEage="44" RightEage="44" TopEage="48" BottomEage="48" Scale9OriginX="44" Scale9OriginY="48" Scale9Width="47" Scale9Height="50" ctype="ImageViewObjectData">
                 <Size X="80.0112" Y="78.7576" />
                 <Children>
-                  <AbstractNodeData Name="Image_233" ActionTag="-767247133" Tag="595" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="9.0013" RightMargin="9.0013" TopMargin="7.8725" BottomMargin="13.4367" LeftEage="12" RightEage="12" TopEage="12" BottomEage="12" Scale9OriginX="12" Scale9OriginY="12" Scale9Width="13" Scale9Height="13" ctype="ImageViewObjectData">
-                    <Size X="62.0087" Y="57.4484" />
+                  <AbstractNodeData Name="Image_233" ActionTag="-767247133" Tag="595" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="9.0013" RightMargin="9.0013" TopMargin="7.8758" BottomMargin="13.4360" LeftEage="12" RightEage="12" TopEage="12" BottomEage="12" Scale9OriginX="12" Scale9OriginY="12" Scale9Width="13" Scale9Height="13" ctype="ImageViewObjectData">
+                    <Size X="62.0087" Y="57.4458" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="40.0056" Y="42.1609" />
+                    <Position X="40.0056" Y="42.1589" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5353" />
@@ -110,7 +110,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="320.0000" Y="991.2558" />
+            <Position X="320.0000" Y="991.2736" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.8726" />
@@ -120,7 +120,7 @@
           <AbstractNodeData Name="Area" ActionTag="-1440907763" Tag="3588" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="319.2320" RightMargin="320.7680" TopMargin="512.2224" BottomMargin="623.7776" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
-              <AbstractNodeData Name="nameArea" ActionTag="817014047" Tag="389" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="-108.0000" RightMargin="-108.0000" TopMargin="65.7362" BottomMargin="-100.7362" FontSize="24" LabelText="Rừng Thiêng" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="12.0000" ShadowOffsetY="12.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="nameArea" ActionTag="817014047" Tag="389" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="-108.0000" RightMargin="-108.0000" TopMargin="65.7362" BottomMargin="-100.7362" FontSize="24" LabelText="Rừng Thiêng" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" OutlineEnabled="True" ShadowOffsetX="1.0000" ShadowOffsetY="-4.0000" ShadowEnabled="True" ctype="TextObjectData">
                 <Size X="216.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position Y="-83.2362" />
