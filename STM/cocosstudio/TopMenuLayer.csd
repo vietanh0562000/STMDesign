@@ -6,7 +6,7 @@
       <ObjectData Name="Layer" Tag="75" ctype="GameLayerObjectData">
         <Size X="640.0000" Y="1136.0000" />
         <Children>
-          <AbstractNodeData Name="lobby_curreny_background" ActionTag="1078006054" Tag="132" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="0.0006" RightMargin="-0.0006" TopMargin="-0.0002" BottomMargin="1062.0002" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="292" Scale9Height="29" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="lobby_curreny_background" ActionTag="1078006054" Tag="132" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="-1.5050" RightMargin="1.5050" TopMargin="-0.0002" BottomMargin="1062.0002" LeftEage="281" RightEage="281" TopEage="28" BottomEage="28" Scale9OriginX="281" Scale9OriginY="28" Scale9Width="281" Scale9Height="14" ctype="ImageViewObjectData">
             <Size X="640.0000" Y="74.0000" />
             <Children>
               <AbstractNodeData Name="goldLabel" ActionTag="-124005717" Tag="131" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="140.1760" RightMargin="359.8240" TopMargin="9.6000" BottomMargin="24.4000" ctype="SpriteObjectData">
@@ -113,10 +113,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="320.0006" Y="1136.0002" />
+            <Position X="318.4950" Y="1136.0002" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="1.0000" />
+            <PrePosition X="0.4976" Y="1.0000" />
             <PreSize X="1.0000" Y="0.0651" />
             <FileData Type="Normal" Path="assets/lobby_currency_background.png" Plist="" />
           </AbstractNodeData>

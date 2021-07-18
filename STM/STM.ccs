@@ -40,6 +40,7 @@
           <Image Name="common_icon_energy.png" />
           <Image Name="common_icon_g.png" />
           <Image Name="common_icon_g_small.png" />
+          <Image Name="common_icon_glass.png" />
           <Image Name="common_icon_gold.png" />
           <Image Name="common_icon_gold_small.png" />
           <Image Name="common_icon_star_small.png" />
@@ -51,6 +52,7 @@
           <Image Name="common_panel_front.png" />
           <Image Name="common_panel_page.png" />
           <Image Name="common_panel_page_selecting.png" />
+          <Image Name="common_panel_title.png" />
           <Image Name="common_tooltip_point.png" />
           <Image Name="common_treasure.png" />
           <Image Name="lobby_background.png" />
@@ -154,7 +156,6 @@
           <Image Name="stat_icon_time.png" />
           <Image Name="Trap.png" />
           <Image Name="ui_icon_arrow.png" />
-          <Image Name="common_panel_title.png" />
         </Folder>
         <Folder Name="fonts">
           <TTF Name="SVN-Avo bold.ttf" />
@@ -180,6 +181,7 @@
         <Project Name="ChestSprite.csd" Type="Node" />
         <Project Name="CollectionCardContainerLayer.csd" Type="Layer" />
         <Project Name="FightCardContainerLayer.csd" Type="Layer" />
+        <Project Name="FindingBattleScene.csd" Type="Scene" />
         <Project Name="InventoryScene.csd" Type="Scene" />
         <Project Name="LobbyScene.csd" Type="Scene" />
         <Project Name="LoginScene.csd" Type="Scene" />

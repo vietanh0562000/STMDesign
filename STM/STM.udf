@@ -28,5 +28,28 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="Card.csd" />
+          <FilePathData Path="CardInfoLayer.csd" />
+          <FilePathData Path="Chest.csd" />
+          <FilePathData Path="ChestContainerLayer.csd" />
+          <FilePathData Path="CheatScene.csd" />
+          <FilePathData Path="LobbyScene.csd" />
+          <FilePathData Path="LoginScene.csd" />
+          <FilePathData Path="SelectingCardLayer.csd" />
+          <FilePathData Path="InventoryScene.csd" />
+          <FilePathData Path="FightCardContainerLayer.csd" />
+          <FilePathData Path="OpenChestScene.csd" />
+          <FilePathData Path="ChestInfoLayer.csd" />
+          <FilePathData Path="CollectionCardContainerLayer.csd" />
+          <FilePathData Path="BottomMenuLayer.csd" />
+          <FilePathData Path="FindingBattleScene.csd" />
+          <FilePathData Path="TopMenuLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="CardInfoLayer.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>

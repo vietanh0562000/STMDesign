@@ -50,6 +50,21 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="Card.csd" Plist="" />
           </AbstractNodeData>
+          <AbstractNodeData Name="CloseButton" ActionTag="558629307" Tag="327" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="482.2280" RightMargin="110.7720" TopMargin="781.3560" BottomMargin="307.6440" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="17" Scale9Height="25" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="47.0000" Y="47.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="505.7280" Y="331.1440" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.7902" Y="0.2915" />
+            <PreSize X="0.0734" Y="0.0414" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <PressedFileData Type="Normal" Path="assets/common_panel_btn_close.png" Plist="" />
+            <NormalFileData Type="Normal" Path="assets/common_panel_btn_close.png" Plist="" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>
