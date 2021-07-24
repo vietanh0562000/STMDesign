@@ -47,8 +47,13 @@
           <FilePathData Path="BottomMenuLayer.csd" />
           <FilePathData Path="FindingBattleScene.csd" />
           <FilePathData Path="TopMenuLayer.csd" />
+          <FilePathData Path="ChestSprite.csd" />
+          <FilePathData Path="MainScene.csd" />
+          <FilePathData Path="Node.csd" />
+          <FilePathData Path="NotificationLayer.csd" />
+          <FilePathData Path="Plist.csi" />
         </OpenedDocuments>
-        <ActiveDocument Path="CardInfoLayer.csd" />
+        <ActiveDocument Path="Node.csd" />
       </Value>
     </Item>
   </Properties>
